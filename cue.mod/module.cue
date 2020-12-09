@@ -1,0 +1,1 @@
+module: "stadiacue.io/stadiaCue"
