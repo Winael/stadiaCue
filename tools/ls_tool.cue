@@ -5,7 +5,6 @@ import (
   "stadiacue.io/stadiaCue/games"
   "tool/cli"
   "text/tabwriter"
-  "list"
   )
 
 command: ls: {
@@ -16,11 +15,11 @@ command: ls: {
   }
 
   task: printContent: cli.Print & {
-    text: tabwriter.Write(list.Sort([
-      for gameName, gameInfo in games.games {
+    text: tabwriter.Write([
+      for gameName, gameInfo in games.game {
           "\(gameInfo["title"])  \t\(gameInfo["pegi"])  \t\(strings.Join(gameInfo["supportedInput"], ", "))"
         }
-    ], {x: int, y: int, less: x<y}))
+    ])
     $after: task.printHeaders
   }
 }
