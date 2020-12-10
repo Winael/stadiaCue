@@ -4,7 +4,7 @@ package games
 // DEAD BY DAYLIGHT
 //----------------------
 
-games: dead_by_daylight: #Game & {
+game: dead_by_daylight: #Game & {
   uid: "b67e43f2b05f4ba7acc56a4b222568aarcp1"
   title: "Dead by Daylight"
   storeCover: "https://lh3.googleusercontent.com/qT8v62NSjcLhtISdywdRrMd2R3dAjIy9422IIYpuDf8Wh6ajKXD4M2MDRfTqciWaqUfpGzwGUZUe4vTZxlA_yO5L4cs-APSDgarawNSxlfar14ZWhauN_Ra3Ig=s1920-rw"

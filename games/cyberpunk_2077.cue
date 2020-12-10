@@ -4,7 +4,7 @@ package games
 // CYBERPUNK 2077
 //----------------------
 
-games: cyberpunk_2077: #Game & {
+game: cyberpunk_2077: #Game & {
   uid: "49697e672bc34e7d8a5f73f78cb580d0rcp1"
   title: "Cyberpunk 2077"
   storeCover: "https://lh3.googleusercontent.com/za9u40K3QSUoLvqsQtqyDorpvvemIm7VY0msNgvVXlDqwBsBsJXm4hFOP1rOuCV2GPX7nO7joZP_pmWoP3_tFXUjZiSkcTLcv8o2EF1NSlDzHg04em0xzftQpQ=s1920-rw"

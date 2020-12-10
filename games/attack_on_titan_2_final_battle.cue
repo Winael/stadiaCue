@@ -4,7 +4,7 @@ package games
 // ATTACK ON TITAN 2: FINAL BATTLE
 //----------------------
 
-games: attack_on_titan_2_final_package: #Game & {
+game: attack_on_titan_2_final_package: #Game & {
   uid: "a38d988fb142400c947bf0a7b37fd404rcp1"
   title: "Attack On Titan 2: Final Battle"
   storeCover: "https://lh3.googleusercontent.com/hNerWylez8Sq8bsKode1KktdlP0Hsz2a-N1Oib-SxOXC2_PNNHioakAXgbjyv5sO0t0-SJ8aG409n4aDmmqyQUKzu9iJzcp4Nya_TYb8BJivb1yDC5ua2ch5qnc=s0-d-rw"

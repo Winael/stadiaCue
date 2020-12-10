@@ -4,7 +4,7 @@ package games
 // BALDUR'S GATE 3 EARLY ACCESS
 //----------------------
 
-games: baldurs_gate_3_early_access: #Game & {
+game: baldurs_gate_3_early_access: #Game & {
   uid: "41de509cbdbb4a13828636099c57731arcp1"
   title: "Baldur's Gate 3 Early Access"
   storeCover: "https://lh3.googleusercontent.com/FD3CrsQ_6I4O9n1qFjFT2L3Rz6HcmLbaBJSvdWGcq1afcQDpfUXoXmzqQh84XAxJizNQWpmmW4eKFpUE9RkmdxyQAEvITwSVDA_rWGnqOmPvLwM4ZuuI2-hWI8k=s1920-rw"

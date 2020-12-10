@@ -4,7 +4,7 @@ package games
 // DOOM 2016
 //----------------------
 
-games: doom_2016: #Game & {
+game: doom_2016: #Game & {
   uid: "cc1a8e0e94d54f15a22149fed93bbd7arcp1"
   title: "Doom 2016"
   storeCover: "https://lh3.googleusercontent.com/F8bx5nrR3G0WtNMSf3dMJzFfReNqfqy56qT7GEK3IyIa9tdHrb0fq013TxD5hNiq1r2nmf9H6HyTACkY2wWBNcBCC0BuQVbEJG2I95ltxSNfGXqoCLc8VU-qg9c=s1920-rw"

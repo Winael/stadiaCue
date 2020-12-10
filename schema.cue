@@ -1,6 +1,7 @@
 package games
 
 #Game: {
+  name: string
   uid: string
   title: string
   storeCover: string
@@ -57,6 +58,10 @@ package games
   streamDirect?: *false | bool
 }
 
+game: [GameName=string]: #Game & {
+  name: *GameName | string
+}
+
 for game in purchasedGames {
   games: "\(game)": {
     purchased: true
@@ -68,3 +73,9 @@ for game in claimedGames {
     claimed: true
   }
 }
+
+_game_list: [
+  for gameName, _ in game {
+    gameName
+  }
+]

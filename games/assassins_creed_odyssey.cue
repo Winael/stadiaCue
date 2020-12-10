@@ -4,7 +4,7 @@ package games
 // ASSASSIN'S CREED ODYSSEY
 //----------------------
 
-games: assassins_creed_odyssey: #Game & {
+game: assassins_creed_odyssey: #Game & {
   uid: "8b7e7f7036e5483eaa8745d46248536crcp1"
   title: "Assassin's Creed Odyssey"
   storeCover: "https://lh3.googleusercontent.com/U7nhorB_5yBKEjDwUAohh51k8hrEKB455ubUDcUcXU1ibVAisK-m750FFXb_QTubjA9XW6Pv68rI-3bC5WOjgCtv4ccZfBlGP4UHtCWtbdnVjZ2kbAcNklrOkqCY=s1920-rw"

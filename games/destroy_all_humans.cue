@@ -4,7 +4,7 @@ package games
 // DESTROY ALL HUMANS!
 //----------------------
 
-games: destroy_all_humans: #Game & {
+game: destroy_all_humans: #Game & {
   uid: "0fd3103549b54c7e89afd6eed83672cercp1"
   title: "Destroy All Humans!"
   storeCover: "https://lh3.googleusercontent.com/LdV26bttyqm16Pf0xL0dWsWKjfZ4VoUdQOmPMyIlN3ep5LPb3oy7oPSt1wCCXkXmy3LF-UzOJ1fU9w_jmdNbThH-NAYn2fJqIurov-F0fURHe1ATotkfVRC6wrw=s1920-rw"

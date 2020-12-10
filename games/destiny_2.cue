@@ -4,7 +4,7 @@ package games
 // DESTINY 2
 //----------------------
 
-games: destiny_2: #Game & {
+game: destiny_2: #Game & {
   uid: "20e792017ab34ad89b70dc17a5c72d68rcp1"
   title: "Destiny 2"
   storeCover: "https://lh3.googleusercontent.com/7Fy2pIHmP0L-fwDF9nJFeO3hJnO-IR0y9vtdWVAAkdrZA8NVJKTIQYStRil1eRKHqD9ITP_-Y_0Vmyg3SIcGZyrcs_Q66YPnwVDWg3t3xGwbVznfg8aSYOqpbn4=s1920-rw"
