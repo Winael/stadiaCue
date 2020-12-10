@@ -4,7 +4,7 @@ package games
 // DARKSIDERS GENESIS
 //----------------------
 
-games: darksiders_genesis: #Games & {
+games: darksiders_genesis: #Game & {
   uid: "f39390395ed5444d8e9b23460c8f9152rcp1"
   title: "Darksiders Genesis"
   storeCover: "https://lh3.googleusercontent.com/H7xf2u_WCr5NWw4QnIbP8T4ilo-hZkRiDxfGiH0C1xj_rxiTClCLwcxz84w3SyCQNvBnSMJRlzfroVycbEKqh-JVu6SigfA-AMCIoFT0FLgYasnWXqnMyjFE2cj-=s0-d-rw"

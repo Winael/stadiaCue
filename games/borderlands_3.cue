@@ -4,7 +4,7 @@ package games
 // BORDERLANDS 3
 //----------------------
 
-games: borderlands_3: #Games & {
+games: borderlands_3: #Game & {
   uid: "be080ad40b434ca289166031d3e88623rcp1"
   title: "Borderlands 3"
   storeCover: "https://lh3.googleusercontent.com/3JalzfGJuq_gcHNpbYL9bxa1XypQixQ5w7CViae3O5zbSgTdNgSlJ9mDYkS2d_ArY8hvbl8Jm2KyIk9H3lPC-_Lckn3-nOzTqEOXNDNdR79YDJhYN17opPAqtQ=s1920-rw"

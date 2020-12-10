@@ -4,7 +4,7 @@ package games
 // CRAYTA
 //----------------------
 
-games:crayta: #Games & {
+games: crayta: #Game & {
   uid: "05f66a46027747a08b930ea70374ac7frcp1"
   title: "Crayta"
   storeCover: "https://lh3.googleusercontent.com/2OuqLnXIgNbhZzMA1WqjJhUffYrnvAENo3SyhZYuzguaOsaE--D8SitaUWNKyJJXtXNp8Qn7UnPwRifyxMI9eceoTjXNz5i380jez50XSSnVCjc4bEQsXQbol5Q=s1920-rw"

@@ -1,6 +1,6 @@
 package games
 
-#Games: {
+#Game: {
   uid: string
   title: string
   storeCover: string

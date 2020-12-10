@@ -4,7 +4,7 @@ package games
 // CHRONOS: BEFORE THE ASHES
 //----------------------
 
-games: chronos_before_the_ashes: #Games & {
+games: chronos_before_the_ashes: #Game & {
   uid: "3f94b62fa50c4202be10472947478f8frcp1"
   title: "Chronos: Before the Ashes"
   storeCover: "https://lh3.googleusercontent.com/kJXZKAvgznqPynlOK-dI_Mw5F04PmtGVwrvZ3zWXY3yIVQf9AyI1xv1D9tzisSCst7MiBMHY6roqa_X-9wikjA0DFXLrnmgx9cRuLbZnahyGqr5a8szY_irWzQ=s1920-rw"

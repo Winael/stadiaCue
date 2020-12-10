@@ -4,7 +4,7 @@ package games
 // ASSASSIN'S CREED VALHALLA
 //----------------------
 
-games: assassins_creed_valhalla: #Games & {
+games: assassins_creed_valhalla: #Game & {
   uid: "377f50584071472096bcda89b0839bc3rcp1"
   title: "Assassin's Creed Valhalla"
   storeCover: "https://lh3.googleusercontent.com/vUZBYV6XQ5Ejp6nWR4mOfr08e6H8tfn3ea38cO35AJ6dhZaskBHwoTVAX5xuaYPDVjSs3-8nZt41rOykSBS4-IrFH9agw2uK8d7eY5gbUUI68lgqe7dWkcyKjoFM=s1920-rw"

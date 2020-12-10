@@ -4,7 +4,7 @@ package games
 // CAKE BASH
 //----------------------
 
-games: cake_bash: #Games & {
+games: cake_bash: #Game & {
   uid: "19efd5fa36794d7b8bc87de68124e705rcp1"
   title: "Cake Bash"
   storeCover: "https://lh3.googleusercontent.com/BnvougKW1wYvsrLWPb4T2zVWecmEuCr_1GSC-2SRp0odxV530CwjuB2BxqqvzMP0diAjWCDvbIP3LWTEmnolYZeFzw9ksAiaL2-SuehpDB8HFLeolZ14Fh8xXw=s1920-rw"

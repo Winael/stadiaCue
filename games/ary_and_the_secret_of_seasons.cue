@@ -4,7 +4,7 @@ package games
 // ARY AND THE SECRET OF SEASONS
 //----------------------
 
-games: ary_and_the_secret_of_seasons: #Games & {
+games: ary_and_the_secret_of_seasons: #Game & {
   uid: "016636d5f49f4862be3ff8cbcf6c7adercp1"
   title: "Ary and the Secret of Seasons"
   storeCover: "https://lh3.googleusercontent.com/RYwhrYX-nO_4zORHP9Eo50Qn-hifLLQ7Lo29Nw1iorrb6nnoZNsvHx82yVuf5hw13Kody0glziRMBeu9_xLkHIdjZQtlACDxbVHm5L7CZJlmnrO66GtvxWRVyRSB=s1920-rw"

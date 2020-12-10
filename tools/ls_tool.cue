@@ -3,22 +3,24 @@ package tools
 import (
   "strings"
   "stadiacue.io/stadiaCue/games"
-  "tool/exec"
+  "tool/cli"
+  "text/tabwriter"
+  "list"
   )
 
 command: ls: {
-  task: printHeaders: exec.Run & {
-    cmd: "echo -e GAME_NAME\t\t\t\t\tGAME_TITLE\t\t\t\t\tGAME_PEGI"
+  task: printHeaders: cli.Print & {
+    text: tabwriter.Write([
+      "TITLE  \tPEGI  \tSUPPORTED_INPUTS"
+      ])
   }
 
-  task: printContent: print: {
-    kind: "print"
-      Lines = [
-        for gameName, gameInfo in games.games {
-          "\(gameInfo["title"])\t\t\(gameInfo["pegi"])\t\t\(strings.Join(gameInfo["supportedInput"], ","))"
+  task: printContent: cli.Print & {
+    text: tabwriter.Write(list.Sort([
+      for gameName, gameInfo in games.games {
+          "\(gameInfo["title"])  \t\(gameInfo["pegi"])  \t\(strings.Join(gameInfo["supportedInput"], ", "))"
         }
-      ]
-    text: strings.Join(Lines, "\n")
+    ], {x: int, y: int, less: x<y}))
     $after: task.printHeaders
   }
 }

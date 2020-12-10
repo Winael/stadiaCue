@@ -4,7 +4,7 @@ package games
 // CELESTE
 //----------------------
 
-games: celeste: #Games & {
+games: celeste: #Game & {
   uid: "c911998e4f8d4c6ea6712c5ad33e4a54rcp1"
   title: "Celeste"
   storeCover: "https://lh3.googleusercontent.com/VU5wVh-V34x6ILjvDcyp-zWRh-bGBeuZi8wXGczTdsArwoquYhjeH4gbrxHJl7Y2M5doupHDELW5KaUoMr__TqR45C5Gn-kb3CV1GIRheDplYYf0zyfhugix0N0=s1920-rw"
