@@ -8,7 +8,7 @@ import (
 // DISCO ELYSIUM - THE FINAL CUT
 //------------------------------
 
-game: disco_elysium_the_final_cut: #Game & {
+game: disco_elysium_the_final_cut: schemas.#Game & {
 	uid:                  "01082780d6f4421c9635b22021f05ff5rcp1"
 	title:                "Disco Elysium - The Final Cut"
 	genre: [

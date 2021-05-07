@@ -8,7 +8,7 @@ import (
 // ARY AND THE SECRET OF SEASONS
 //------------------------------
 
-game: ary_and_the_secret_of_seasons: #Game & {
+game: ary_and_the_secret_of_seasons: schemas.#Game & {
 	uid:              "016636d5f49f4862be3ff8cbcf6c7adercp1"
 	title:            "Ary and the Secret of Seasons"
 	genre: [

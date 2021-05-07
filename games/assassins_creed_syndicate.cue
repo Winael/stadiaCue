@@ -8,7 +8,7 @@ import (
 // ASSASSIN'S CREED SYNDICATE
 //---------------------------
 
-game: assassins_creed_syndicate: #Game & {
+game: assassins_creed_syndicate: schemas.#Game & {
     uid:                  "88a2945345f744519c5148ddd54f26d1rcp1"
     title:                "Assassin's Creed Syndicate"
     genre: [

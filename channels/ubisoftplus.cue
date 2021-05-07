@@ -1,9 +1,5 @@
 package channels
 
-import (
-	games "stadiacue.io/stadiaCue/schemas"
-)
-
 //---------
 // UBISOFT+
 //---------
@@ -17,7 +13,7 @@ ubisoftplus: [
 ]
 
 for game_name in ubisoftplus {
-	schemas.game: "\(game_name)": {
+	game: "\(game_name)": {
 		channel: "ubisoft+"
 	}
 }

@@ -8,7 +8,7 @@ import (
 // CYBERPUNK 2077
 //---------------
 
-game: cyberpunk_2077: #Game & {
+game: cyberpunk_2077: schemas.#Game & {
 	uid:              "49697e672bc34e7d8a5f73f78cb580d0rcp1"
 	title:            "Cyberpunk 2077"
 	genre: [

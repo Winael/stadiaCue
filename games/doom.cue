@@ -8,7 +8,7 @@ import (
 // DOOM 2016
 //----------
 
-game: doom_2016: #Game & {
+game: doom_2016: schemas.#Game & {
 	uid:              "cc1a8e0e94d54f15a22149fed93bbd7arcp1"
 	title:            "Doom 2016"
 	genre: [

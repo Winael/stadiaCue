@@ -8,7 +8,7 @@ import (
 // DEAD BY DAYLIGHT
 //-----------------
 
-game: dead_by_daylight: #Game & {
+game: dead_by_daylight: schemas.#Game & {
 	uid:              "b67e43f2b05f4ba7acc56a4b222568aarcp1"
 	title:            "Dead by Daylight"
 	genre: [

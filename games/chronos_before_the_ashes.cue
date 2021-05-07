@@ -8,7 +8,7 @@ import (
 // CHRONOS: BEFORE THE ASHES
 //--------------------------
 
-game: chronos_before_the_ashes: #Game & {
+game: chronos_before_the_ashes: schemas.#Game & {
 	uid:              "3f94b62fa50c4202be10472947478f8frcp1"
 	title:            "Chronos: Before the Ashes"
 	genre: [

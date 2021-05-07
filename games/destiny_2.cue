@@ -8,7 +8,7 @@ import (
 // DESTINY 2
 //----------
 
-game: destiny_2: #Game & {
+game: destiny_2: schemas.#Game & {
 	uid:              "20e792017ab34ad89b70dc17a5c72d68rcp1"
 	title:            "Destiny 2"
 	genre: [

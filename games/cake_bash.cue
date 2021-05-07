@@ -8,7 +8,7 @@ import (
 // CAKE BASH
 //----------
 
-game: cake_bash: #Game & {
+game: cake_bash: schemas.#Game & {
 	uid:              "19efd5fa36794d7b8bc87de68124e705rcp1"
 	title:            "Cake Bash"
 	genre: [

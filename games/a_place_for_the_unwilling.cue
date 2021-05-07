@@ -8,7 +8,7 @@ import (
 // A PLACE FOR THE UNWWILLING
 //---------------------------
 
-game: a_place_for_the_unwilling: #Game & {
+game: a_place_for_the_unwilling: schemas.#Game & {
 	uid:              "d5a3bd3f904647e1b72b346be7330c39rcp1"
 	title:            "A Place for the Unwilling"
 	genre: [

@@ -8,7 +8,7 @@ import (
 // AVICII INVECTOR
 //----------------
 
-game: avicii_invector: #Game & {
+game: avicii_invector: schemas.#Game & {
 	uid:                  "2c8b9ab112e5460db922dc7353381256rcp1"
 	title:                "AVICII Invector"
 	genre: [

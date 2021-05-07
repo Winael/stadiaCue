@@ -8,7 +8,7 @@ import (
 // DARKSIDERS GENESIS
 //-------------------
 
-game: darksiders_genesis: #Game & {
+game: darksiders_genesis: schemas.#Game & {
 	uid:              "f39390395ed5444d8e9b23460c8f9152rcp1"
 	title:            "Darksiders Genesis"
 	genre: [

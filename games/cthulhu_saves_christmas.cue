@@ -8,7 +8,7 @@ import (
 // CTHULHU SAVES CHRISTMAS
 //------------------------
 
-game: cthulhu_saves_christmas: #Game & {
+game: cthulhu_saves_christmas: schemas.#Game & {
 	uid:                  "769a088b9ef04c04b341911a1ef8b8ecrcp1"
 	title:                "Cthulhu Saves Christmas"
 	genre: [

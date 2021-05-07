@@ -2,7 +2,6 @@ package schemas
 
 import (
 	"strings"
-	games "stadiacue.io/stadiaCue/games"
 	ownerGames "stadiacue.io/stadiaCue/ownerGames"
 )
 
@@ -53,7 +52,7 @@ import (
 	publisher:            string
 	stadiaReleaseDate:    string
 	genre: [...]
-	//originalReleaseDate?: string
+	originalReleaseDate?: string
 	stadiaPro:            *false | bool
 	#StadiaPro
 	language: [...]
@@ -109,13 +108,13 @@ for game_name in ownerGames.claimedGames {
 }
 
 gameList: [
-	for Game in games.game {
+	for Game in game {
 		"\(Game.title)"
 	},
 ]
 
 gameInfos: [
-	for Game in games.game {
+	for Game in game {
 		"\(Game.title)  \t\(Game.pegi)  \t\(strings.Join(Game.supportedInput, ", "))"
 	},
 ]

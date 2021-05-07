@@ -8,7 +8,7 @@ import (
 // DIRT 5
 //-------
 
-game: dirt_5: #Game & {
+game: dirt_5: schemas.#Game & {
 	uid:                  "ed81a01114044edcacfa52656b259d41rcp1"
 	title:                "DIRT 5"
 	genre: [

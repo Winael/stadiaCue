@@ -8,7 +8,7 @@ import (
 // BORDERLANDS 3
 //--------------
 
-game: borderlands_3: #Game & {
+game: borderlands_3: schemas.#Game & {
 	uid:              "be080ad40b434ca289166031d3e88623rcp1"
 	title:            "Borderlands 3"
 	genre: [

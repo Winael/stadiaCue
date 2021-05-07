@@ -8,7 +8,7 @@ import (
 // ASSASSIN'S CREED ORIGINS
 //-------------------------
 
-game: assassins_creed_origins: #Game & {
+game: assassins_creed_origins: schemas.#Game & {
     uid:                 "11dfda5b2d78475d8624972b9b78c995rcp1"
     title:               "Assassin's Creed Origins"
     genre: [

@@ -8,7 +8,7 @@ import (
 // BALDUR'S GATE 3 EARLY ACCESS
 //-----------------------------
 
-game: baldurs_gate_3_early_access: #Game & {
+game: baldurs_gate_3_early_access: schemas.#Game & {
 	uid:              "41de509cbdbb4a13828636099c57731arcp1"
 	title:            "Baldur's Gate 3 Early Access"
 	genre: [

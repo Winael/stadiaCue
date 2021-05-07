@@ -8,7 +8,7 @@ import (
 // COSMIC STAR HEROINE
 //--------------------
 
-game: cosmic_star_heroine: #Game & {
+game: cosmic_star_heroine: schemas.#Game & {
 	uid:                  "88396e4e44c94d43b4259e6bedbd582crcp1"
 	title:                "Cosmic Star Heroine"
 	genre: [

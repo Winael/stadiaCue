@@ -8,7 +8,7 @@ import (
 // DESTROY ALL HUMANS!
 //--------------------
 
-game: destroy_all_humans: #Game & {
+game: destroy_all_humans: schemas.#Game & {
 	uid:              "0fd3103549b54c7e89afd6eed83672cercp1"
 	title:            "Destroy All Humans!"
 	genre: [

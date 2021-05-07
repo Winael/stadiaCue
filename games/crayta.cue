@@ -8,7 +8,7 @@ import (
 // CRAYTA
 //-------
 
-game: crayta: #Game & {
+game: crayta: schemas.#Game & {
 	uid:              "05f66a46027747a08b930ea70374ac7frcp1"
 	title:            "Crayta"
 	genre: [

@@ -8,7 +8,7 @@ import (
 // CELESTE
 //--------
 
-game: celeste: #Game & {
+game: celeste: schemas.#Game & {
 	uid:              "c911998e4f8d4c6ea6712c5ad33e4a54rcp1"
 	title:            "Celeste"
 	genre: [

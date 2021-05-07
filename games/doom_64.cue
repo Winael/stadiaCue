@@ -8,7 +8,7 @@ import (
 // DOOM 64
 //--------
 
-game: doom_64: #Game & {
+game: doom_64: schemas.#Game & {
 	uid:                  "5a0e892c933c4f56b4d87976cb655ecfrcp1"
 	title:                "DOOM 64"
 	genre: [

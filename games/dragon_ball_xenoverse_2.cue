@@ -8,7 +8,7 @@ import (
 // DRAGON BALL XENOVERSE 2
 //------------------------
 
-game:dragon_ball_xenoverse_2: #Game & {
+game:dragon_ball_xenoverse_2: schemas.#Game & {
 	uid:                  "80a70c13987841b3a2aedbcac54784abrcp1"
 	title:                "DRAGON BALL XENOVERSE 2"
 	genre: [
