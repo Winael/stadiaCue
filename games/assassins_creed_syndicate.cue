@@ -1,13 +1,16 @@
 package games
 
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
+
 //---------------------------
 // ASSASSIN'S CREED SYNDICATE
 //---------------------------
 
-game: assassins_creed_syndicate: template_game & {
+game: assassins_creed_syndicate: #Game & {
     uid:                  "88a2945345f744519c5148ddd54f26d1rcp1"
     title:                "Assassin's Creed Syndicate"
-    storeCover:           "https://lh3.googleusercontent.com/wW9THdnXtApZkx6wP7OsZeuYuYD4FPIo4utr7j8LdMkWqk22D7nxraINGSndlmQTl-oCU3tthFPpNW_EWfX0XsX7yM9pgesYEztcr_CJZZXJJvJog-lQ-9P9jq79=s1920-rw"
     genre: [
         "Action",
         "Adventure"
@@ -46,6 +49,7 @@ game: assassins_creed_syndicate: template_game & {
         "brightness contrast gamma adjustment",
     ]
     medias: {
+        storeCover:           "https://lh3.googleusercontent.com/wW9THdnXtApZkx6wP7OsZeuYuYD4FPIo4utr7j8LdMkWqk22D7nxraINGSndlmQTl-oCU3tthFPpNW_EWfX0XsX7yM9pgesYEztcr_CJZZXJJvJog-lQ-9P9jq79=s1920-rw"
         storeCoverSquare:     "https://lh3.googleusercontent.com/UYS5Yl-tjbwkkFrgbstUttesSJW2jvipGziePLUo_wIVHBy1uwfB5E21Jg1okwa20vrFld67ENXMUhWeFOzTxeWCBasQ5Ieh_e7YRyyPQ4vzEah6c086vN5xid-Z=e14-rw-no"
         ownerCover:           "https://lh3.googleusercontent.com/Ow5DHT2UzNN6rJbfDk3ZmYdugV9QrXAPQ8WRWn204JO3-BfI9aZ139s575x9OkT077eKDqeFBk4lS2vY5UuRdXOa1itFA1ACslSjgnUu8h3P2zdbEnSR2JzrTw=w535-h380-e14-rw-no"
         mainForegroundCover:  "https://lh3.googleusercontent.com/2h-aa1E9e1kxa-dHEEBccKG58eAZAdzY5yw_DJcS2JqeRkrmv68mwOnpcWx5TXjNrlR-AkLmg5HrsLaLKZIl65lIrP8IDQidt-0g9sQdOVZQQa6Lm_UI4XfIAQ=e14-rw-no"

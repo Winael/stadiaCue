@@ -1,10 +1,14 @@
 package games
 
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
+
 //---------------------------
 // A PLACE FOR THE UNWWILLING
 //---------------------------
 
-game: a_place_for_the_unwilling: template_game & {
+game: a_place_for_the_unwilling: #Game & {
 	uid:              "d5a3bd3f904647e1b72b346be7330c39rcp1"
 	title:            "A Place for the Unwilling"
 	genre: [

@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// DOOM 2016
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: doom_2016: template_game & {
+//----------
+// DOOM 2016
+//----------
+
+game: doom_2016: #Game & {
 	uid:              "cc1a8e0e94d54f15a22149fed93bbd7arcp1"
 	title:            "Doom 2016"
 	genre: [

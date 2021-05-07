@@ -1,4 +1,12 @@
-package games
+package channels
+
+import (
+	games "stadiacue.io/stadiaCue/schemas"
+)
+
+//---------
+// UBISOFT+
+//---------
 
 ubisoftplus: [
 	"assassins_creed_odyssey",
@@ -9,7 +17,7 @@ ubisoftplus: [
 ]
 
 for game_name in ubisoftplus {
-	game: "\(game_name)": {
+	schemas.game: "\(game_name)": {
 		channel: "ubisoft+"
 	}
 }

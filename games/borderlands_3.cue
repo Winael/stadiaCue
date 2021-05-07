@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// BORDERLANDS 3
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: borderlands_3: template_game & {
+//--------------
+// BORDERLANDS 3
+//--------------
+
+game: borderlands_3: #Game & {
 	uid:              "be080ad40b434ca289166031d3e88623rcp1"
 	title:            "Borderlands 3"
 	genre: [

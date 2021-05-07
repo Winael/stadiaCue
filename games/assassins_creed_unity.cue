@@ -1,10 +1,14 @@
 package games
 
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
+
 //-----------------------
 // ASSASSIN'S CREED UNITY
 //-----------------------
 
-game: assassins_creed_unity: template_game & {
+game: assassins_creed_unity: schemas.#Game & {
 	uid:                 "92f77c19718444499ffb3054dd97ca36rcp1"
 	title:               "Assassin’s Creed Unity"
 	genre: [
@@ -15,6 +19,7 @@ game: assassins_creed_unity: template_game & {
 	    Assassin’s Creed Unity is an action/adventure game set in the city of Paris during one of its darkest hours, the French Revolution. Take ownership of the story by customising Arno's equipement to make the experience unique to you, both visually and mechanically. In addition to an epic single-player experience, Assassin’s Creed Unity delivers the excitement of playing with up to three friends through online cooperative gameplay in specific missions. Throughout the game, take part in one of the most pivotal moments of French history in a compelling storyline and a breath-taking playground that brought you the city of lights of today.
 	"""
 	developers:        "Ubisoft"
+	publisher:			developers
 	stadiaReleaseDate: "2020-12-15"
 	pegi:              18
 	language: [

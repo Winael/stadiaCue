@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// BALDUR'S GATE 3 EARLY ACCESS
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: baldurs_gate_3_early_access: template_game & {
+//-----------------------------
+// BALDUR'S GATE 3 EARLY ACCESS
+//-----------------------------
+
+game: baldurs_gate_3_early_access: #Game & {
 	uid:              "41de509cbdbb4a13828636099c57731arcp1"
 	title:            "Baldur's Gate 3 Early Access"
 	genre: [

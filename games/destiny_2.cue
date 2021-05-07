@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// DESTINY 2
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: destiny_2: template_game & {
+//----------
+// DESTINY 2
+//----------
+
+game: destiny_2: #Game & {
 	uid:              "20e792017ab34ad89b70dc17a5c72d68rcp1"
 	title:            "Destiny 2"
 	genre: [
@@ -60,7 +64,11 @@ game: destiny_2: template_game & {
 		"separate volume controls",
 	]
 	medias: {
-		storeCover:       "https://lh3.googleusercontent.com/7Fy2pIHmP0L-fwDF9nJFeO3hJnO-IR0y9vtdWVAAkdrZA8NVJKTIQYStRil1eRKHqD9ITP_-Y_0Vmyg3SIcGZyrcs_Q66YPnwVDWg3t3xGwbVznfg8aSYOqpbn4=s1920-rw"
-		storeCoverSquare: "https://lh3.googleusercontent.com/F4MXqzQvUci9TGwFNXjHMqbqEF7PPzhz3dvghIWwWpMPBnaYCCXjh98NgxK5w2_AEsVEyaMPGkKbsMqTPkPEG5b1iCa4bIkJL2BuatpLdGs0hBSkOIn82YBAkixO=s1920-rw"
+		storeCover:       		"https://lh3.googleusercontent.com/7Fy2pIHmP0L-fwDF9nJFeO3hJnO-IR0y9vtdWVAAkdrZA8NVJKTIQYStRil1eRKHqD9ITP_-Y_0Vmyg3SIcGZyrcs_Q66YPnwVDWg3t3xGwbVznfg8aSYOqpbn4=s1920-rw"
+		storeCoverSquare: 		"https://lh3.googleusercontent.com/F4MXqzQvUci9TGwFNXjHMqbqEF7PPzhz3dvghIWwWpMPBnaYCCXjh98NgxK5w2_AEsVEyaMPGkKbsMqTPkPEG5b1iCa4bIkJL2BuatpLdGs0hBSkOIn82YBAkixO=s1920-rw"
+		mainLogoCover: 			"https://lh3.googleusercontent.com/aJuHQfvrcH1sx5tDLC1lAuM_gSLG926xvydYyBe9_oZPoSf0Lm39ibcf9c151B1YrtDjTnq7pw8MhAN7oAWrirYxlOtn7e1ZLwSQgm1ua2K4Bt4AcQrXyMQtRg=e14-rw-no"
+		mainForegroundCover: 	"https://lh3.googleusercontent.com/eMPR_vgh1-h29nocKV007axlnFv8sNxp0HmjAad47-YNl4-cyqHb1qfatmS4v9Yfy2r_jVHM1_2KxrdkI5Z6EtsZY26LiYcxzFrbd3DeTq3hIpGwPj8D6My-RCU=e14-rw-no"
+		mainBackgroundCover: 	"https://lh3.googleusercontent.com/VgrVTsxo9o8mJAS0BFHK80wpiG-2SnYEgv9RU8MY8RCr3NOt4s1AjptCHi7mwK23pgTb0rPXtu72mEk3PiCmnVQlP5ZNbyxOo2i6Hd-jC6p9fF6KsXk117Y8UQ=e14-rw-no"
+	
 	}
 }

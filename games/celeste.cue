@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// CELESTE
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: celeste: template_game & {
+//--------
+// CELESTE
+//--------
+
+game: celeste: #Game & {
 	uid:              "c911998e4f8d4c6ea6712c5ad33e4a54rcp1"
 	title:            "Celeste"
 	genre: [
@@ -38,7 +42,11 @@ game: celeste: template_game & {
 		"difficulty levels",
 	]
 	medias: {
-		storeCover:       "https://lh3.googleusercontent.com/VU5wVh-V34x6ILjvDcyp-zWRh-bGBeuZi8wXGczTdsArwoquYhjeH4gbrxHJl7Y2M5doupHDELW5KaUoMr__TqR45C5Gn-kb3CV1GIRheDplYYf0zyfhugix0N0=s1920-rw"
-		storeCoverSquare: "https://lh3.googleusercontent.com/Q0olrlJiXwsYDI41pXq_0yZK7oaVYQj5fQQXKa8Go3siLTyMeNXxx4rf1z2rB8qmz9WVPYKJ0LXBoTTO4P5odHoOAXGlTfdwqCj7cHmIceC7tCaTUKBZ87BIjYGW=s1920-rw"
+		storeCover:       		"https://lh3.googleusercontent.com/VU5wVh-V34x6ILjvDcyp-zWRh-bGBeuZi8wXGczTdsArwoquYhjeH4gbrxHJl7Y2M5doupHDELW5KaUoMr__TqR45C5Gn-kb3CV1GIRheDplYYf0zyfhugix0N0=s1920-rw"
+		storeCoverSquare: 		"https://lh3.googleusercontent.com/Q0olrlJiXwsYDI41pXq_0yZK7oaVYQj5fQQXKa8Go3siLTyMeNXxx4rf1z2rB8qmz9WVPYKJ0LXBoTTO4P5odHoOAXGlTfdwqCj7cHmIceC7tCaTUKBZ87BIjYGW=s1920-rw"
+		mainLogoCover:			"https://lh3.googleusercontent.com/_WWD-HFf78_Ey_cJPR_ykDt7ZoKBK06C8mYBh9wE83rUzg-GTQIwBKz7IHsa7CdtASnLBwaOZJdBSlV5yPhQftuWx2hqCgvrqbkAmx1jdOINxbyiolTZMJwAdbI=e14-rw-no"
+		mainForegroundCover:	"https://lh3.googleusercontent.com/H8RYLOda6bbNx5EQ605W6X4iNyeqzR61ZUW8Nv4dzIsxvcDGm9sQjmuaYHVsLrRIlOB2bbs0gmxzGr7Qe853bYVkKSJbfJ3GvUP5ahP_VhWcrDy8w0r8NNwkU_o=e14-rw-no"
+		mainBackgroundCover:	"https://lh3.googleusercontent.com/zVtzlXfr2T_BwVMf8u6iqu3BrqK74ApdIt28zhWnSZzcqeOQ_--7VUiJp0LykaZzN89GWXGH2AR89IH-Okp9mvB3wDtLGsunGlaku0rLimO-_aJyfawa7fA1Jjn5=e14-rw-no"
+		ownerCover:				"https://lh3.googleusercontent.com/SdoUjjC_CclAiTqng8zXgyaK9l_OYcxx28OULaeM_aR8EH9u9u74ra-a0oP0cLg-T41LADFDspehF0xC23DCCd4BEMcxmpj0y1nN-TMS3eQRfwgBouu7oc7KwJk=w535-h380-e14-rw-no"
 	}
 }

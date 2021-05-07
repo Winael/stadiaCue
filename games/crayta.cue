@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// CRAYTA
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: crayta: template_game & {
+//-------
+// CRAYTA
+//-------
+
+game: crayta: #Game & {
 	uid:              "05f66a46027747a08b930ea70374ac7frcp1"
 	title:            "Crayta"
 	genre: [
@@ -49,7 +53,11 @@ game: crayta: template_game & {
 	]
 	stateShare: true
 	medias: {
-		storeCover:       "https://lh3.googleusercontent.com/2OuqLnXIgNbhZzMA1WqjJhUffYrnvAENo3SyhZYuzguaOsaE--D8SitaUWNKyJJXtXNp8Qn7UnPwRifyxMI9eceoTjXNz5i380jez50XSSnVCjc4bEQsXQbol5Q=s1920-rw"
-		storeCoverSquare: "https://lh3.googleusercontent.com/fOIEymEUvYsfsspJFOqPxKYGZ4ii2ZkQQFnZvaEbn54mtmCt2bmnS0i_uNHUBy-a6Fs58MSnFol2Puu2dXWFMlI429lk-TEbjnf2juoA2-KyG96jmOIykVSNHLw=s1920-rw"
+		storeCover:       		"https://lh3.googleusercontent.com/2OuqLnXIgNbhZzMA1WqjJhUffYrnvAENo3SyhZYuzguaOsaE--D8SitaUWNKyJJXtXNp8Qn7UnPwRifyxMI9eceoTjXNz5i380jez50XSSnVCjc4bEQsXQbol5Q=s1920-rw"
+		storeCoverSquare: 		"https://lh3.googleusercontent.com/fOIEymEUvYsfsspJFOqPxKYGZ4ii2ZkQQFnZvaEbn54mtmCt2bmnS0i_uNHUBy-a6Fs58MSnFol2Puu2dXWFMlI429lk-TEbjnf2juoA2-KyG96jmOIykVSNHLw=s1920-rw"
+		mainLogoCover:			"https://lh3.googleusercontent.com/PySLir6qkFg1RUg7u7yCDZLF2I4_72_1FV31PM5Lerg42vBUGBVFD2rA0sErucxPPesp_BK7rhEzbAbBib7eEfUWNqZ0Lj56YEM4F6UjcRVv4lP_8k7JR687Cf4=e14-rw-no"
+		mainForegroundCover:	"https://lh3.googleusercontent.com/KGV4XeVaqrQSDkOW6kQx4-86LkqRmjlLB3lURjydr1O6ywCVCO1Nox5GgEHzJ1bB6dbQfraTZMW-IzFewyOXFj9BUDQaCjjMJq96ixbzcFgCDGRRwD0EIbRh84s=e14-rw-no"
+		mainBackgroundCover:	"https://lh3.googleusercontent.com/vuffjLfHNJE65AhTqrxtqd2NGHFPxTss6wMo249RKZvTdmvODgs8Bw3GkuUEhRAWwERovnKkIzjMUI61VjGS7szTD6GuSMTxe3mTEmjU_oJmaLEsiebaW9KZ6U8=e14-rw-no"
+		ownerCover:				"https://lh3.googleusercontent.com/oBbxE-e22_0_xtOihsQVrrSIH9YRaWS2JOYB_njKIM0FpDgxousnYZgl_SW7WyrgnKsBnT78REQRt7luiZXzUqOm5e2O2atZjksVZ6h-IyF7dGQfoSpN7nRY07H6=w535-h380-e14-rw-no"
 	}
 }

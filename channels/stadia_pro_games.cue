@@ -1,4 +1,4 @@
-package games
+package channels
 
 stadiaProGames: {
 	ary_and_the_secret_of_seasons: {

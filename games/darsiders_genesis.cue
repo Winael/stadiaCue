@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// DARKSIDERS GENESIS
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: darksiders_genesis: template_game & {
+//-------------------
+// DARKSIDERS GENESIS
+//-------------------
+
+game: darksiders_genesis: #Game & {
 	uid:              "f39390395ed5444d8e9b23460c8f9152rcp1"
 	title:            "Darksiders Genesis"
 	genre: [

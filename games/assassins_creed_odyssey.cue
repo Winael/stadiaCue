@@ -4,7 +4,7 @@ package games
 // ASSASSIN'S CREED ODYSSEY
 //-------------------------
 
-game: assassins_creed_odyssey: template_game & {
+game: assassins_creed_odyssey: #Game & {
 	uid:                 "8b7e7f7036e5483eaa8745d46248536crcp1"
 	title:               "Assassin's Creed Odyssey"
 	genre: [

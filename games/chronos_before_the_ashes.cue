@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// CHRONOS: BEFORE THE ASHES
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: chronos_before_the_ashes: template_game & {
+//--------------------------
+// CHRONOS: BEFORE THE ASHES
+//--------------------------
+
+game: chronos_before_the_ashes: #Game & {
 	uid:              "3f94b62fa50c4202be10472947478f8frcp1"
 	title:            "Chronos: Before the Ashes"
 	genre: [

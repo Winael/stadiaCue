@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// CYBERPUNK 2077
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: cyberpunk_2077: template_game & {
+//---------------
+// CYBERPUNK 2077
+//---------------
+
+game: cyberpunk_2077: #Game & {
 	uid:              "49697e672bc34e7d8a5f73f78cb580d0rcp1"
 	title:            "Cyberpunk 2077"
 	genre: [

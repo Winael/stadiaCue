@@ -1,4 +1,4 @@
-package games
+package ownerGames
 
 purchasedGames: [
 	"assassins_creed_odyssey",
@@ -6,6 +6,7 @@ purchasedGames: [
 	"assassins_creed_unity",
 	"cake_bash",
 	"crayta",
+	"dragon_quest_xi_echoes_of_an_elusive_age",
 ]
 
 claimedGames: [

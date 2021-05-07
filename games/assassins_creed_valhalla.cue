@@ -1,10 +1,14 @@
 package games
 
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
+
 //--------------------------
 // ASSASSIN'S CREED VALHALLA
 //--------------------------
 
-game: assassins_creed_valhalla: template_game & {
+game: assassins_creed_valhalla: #Game & {
 	uid:                 "377f50584071472096bcda89b0839bc3rcp1"
 	title:               "Assassin's Creed Valhalla"
 	genre: [

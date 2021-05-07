@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// DESTROY ALL HUMANS!
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: destroy_all_humans: template_game & {
+//--------------------
+// DESTROY ALL HUMANS!
+//--------------------
+
+game: destroy_all_humans: #Game & {
 	uid:              "0fd3103549b54c7e89afd6eed83672cercp1"
 	title:            "Destroy All Humans!"
 	genre: [

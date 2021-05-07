@@ -9,8 +9,8 @@ import (
 )
 
 //sortedGameInfos: list.Sort(
-//  template_gameInfos,
-//  {x: template_gameInfo, y: template_gameInfo, less: x.line<y.line}
+//  #GameInfos,
+//  {x: #GameInfo, y: #GameInfo, less: x.line<y.line}
 //)
 
 command: ls: {

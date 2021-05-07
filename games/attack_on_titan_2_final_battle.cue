@@ -1,10 +1,14 @@
 package games
 
-//----------------------
-// ATTACK ON TITAN 2: FINAL BATTLE
-//----------------------
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
 
-game: attack_on_titan_2_final_package: template_game & {
+//--------------------------------
+// ATTACK ON TITAN 2: FINAL BATTLE
+//--------------------------------
+
+game: attack_on_titan_2_final_package: #Game & {
 	uid:              "a38d988fb142400c947bf0a7b37fd404rcp1"
 	title:            "Attack On Titan 2: Final Battle"
 	genre: [
