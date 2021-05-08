@@ -1,5 +1,9 @@
 packages games
 
+import (
+	schemas "stadiacue.io/stadiaCue/schemas"
+)
+
 //------------------------------------------
 // DRAGON QUEST XI: ECHOES OF AN ELUSIVE AGE
 //------------------------------------------

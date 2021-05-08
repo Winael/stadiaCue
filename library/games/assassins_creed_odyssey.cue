@@ -1,4 +1,4 @@
-package games
+package library
 
 import (
 	schemas "stadiacue.io/stadiaCue/schemas"

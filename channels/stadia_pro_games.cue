@@ -34,12 +34,4 @@ stadiaProGames: {
 	}
 }
 
-for gameName, gameInfo in stadiaProGames {
-	game: "\(gameName)": {
-		stadiaPro:          gameInfo.stadiaProActive
-		stadiaProBeginDate: gameInfo.stadiaProBeginDate
-		if gameInfo.stadiaProEndDate != _|_ {
-			stadiaProEndDate:  gameInfo.stadiaProEndDate
-		}
-	}
-}
+

@@ -1,10 +1,5 @@
 package schemas
 
-import (
-	"strings"
-	ownerGames "stadiacue.io/stadiaCue/ownerGames"
-)
-
 #OptionalMedias: {
 	ownerCover?:          string
 	mainForegroundCover?: string
@@ -91,30 +86,3 @@ import (
 	
 }
 
-game: [GameName=string]: #Game & {
-	name: *GameName | string
-}
-
-for game_name in ownerGames.purchasedGames {
-	game: "\(game_name)": {
-		purchased: true
-	}
-}
-
-for game_name in ownerGames.claimedGames {
-	game: "\(game_name)": {
-		claimed: true
-	}
-}
-
-gameList: [
-	for Game in game {
-		"\(Game.title)"
-	},
-]
-
-gameInfos: [
-	for Game in game {
-		"\(Game.title)  \t\(Game.pegi)  \t\(strings.Join(Game.supportedInput, ", "))"
-	},
-]
