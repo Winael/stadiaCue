@@ -1,6 +1,8 @@
 package games
 
 import (
+	"list"
+	"strings"
 	channels "stadiacue.io/stadiaCue/channels"
 	ownerGames "stadiacue.io/stadiaCue/ownerGames"
 )
@@ -23,7 +25,7 @@ import (
 	languages: [...]
 	countries: #Country
 	gameMode: [...]
-	supportedInputs: #SupportedInput
+	supportedInputs: *#SupportedInput | [...]
 	accessibilityFeatures: [...]
 	familySharing:  *true | bool
 	#StadiaFeatures
@@ -35,7 +37,6 @@ import (
 		logoUrl:              *"https://ssl.gstatic.com/ygp/ui/img/stadia_logo_512.png" | string
 		#OptionalMedias
 	}
-	
 }
 
 #Price: {
@@ -130,5 +131,16 @@ for gameName, gameInfo in channels.stadiaProGames {
 gameList: [
 	for Game in game {
 		"\(Game.title)"
+	},
+]
+
+sortedGameList: list.Sort(
+	gameList,
+	list.Ascending
+)
+
+gameInfos: [
+	for Game in game {
+		"\(Game.title)  \t\(strings.Join(Game.genre, ","))  \t\(Game.pegi)"
 	},
 ]

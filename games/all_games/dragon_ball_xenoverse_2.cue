@@ -6,7 +6,7 @@ package games
 
 game:dragon_ball_xenoverse_2: #Game & {
 	uid:                  "80a70c13987841b3a2aedbcac54784abrcp1"
-	title:                "DRAGON BALL XENOVERSE 2"
+	title:                "Dragon Ball Xenoverse 2"
 	genre: [
         "Action", 
         "Fighting"

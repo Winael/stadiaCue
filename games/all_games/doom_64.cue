@@ -6,7 +6,7 @@ package games
 
 game: doom_64: #Game & {
 	uid:                  "5a0e892c933c4f56b4d87976cb655ecfrcp1"
-	title:                "DOOM 64"
+	title:                "Doom 64"
 	genre: [
         "Action", 
         "Shooter"

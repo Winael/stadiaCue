@@ -6,7 +6,7 @@ package games
 
 game: dragon_quest_xi_echoes_of_an_elusive_age: #Game & {
 	uid:                  "6cf458a458cd4b2e8161c740c4844621rcp1"
-	title:                "DRAGON QUEST XI S: Echoes of an Elusive Age"
+	title:                "Dragon Quest XI S: Echoes of an Elusive Age"
 	genre: [
         "Role-playing game", 
         "Adventure"

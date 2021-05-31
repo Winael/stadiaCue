@@ -6,7 +6,7 @@ package games
 
 game: doom_eternal_standard_edition: #Game & {
 	uid:                  "632522c846a041ce801e47b96ba2e265rcp1"
-	title:                "DOOM Eternal Standard Edition"
+	title:                "Doom Eternal Standard Edition"
 	genre: [
         "Action", 
         "Shooter"

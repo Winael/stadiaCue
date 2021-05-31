@@ -6,7 +6,7 @@ package games
 
 game: dirt_5: #Game & {
 	uid:                  "ed81a01114044edcacfa52656b259d41rcp1"
-	title:                "DIRT 5"
+	title:                "Dirt 5"
 	genre: [
         "Racing", 
         "Sports"

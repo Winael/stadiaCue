@@ -6,7 +6,7 @@ package games
 
 game: avicii_invector: #Game & {
 	uid:                  "2c8b9ab112e5460db922dc7353381256rcp1"
-	title:                "AVICII Invector"
+	title:                "Avicii Invector"
 	genre: [
         "Music or rhythm", 
         "Party",

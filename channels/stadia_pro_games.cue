@@ -32,6 +32,25 @@ stadiaProGames: {
 		stadiaProBeginDate: "2019-11-19"
 		stadiaProEndDate:   "2020-11-30"
 	}
+	el_hijo_a_wild_west_tale: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2021-01-01"
+		stadiaProEndDate: "2021-04-30"
+	}
+	embr: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-09-01"
+		stadiaProEndDate: "2020-12-31"
+	}
+	everspace: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2020-12-01"
+	}
+	f1_2020: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2021-01-01"
+		stadiaProEndDate: "2020-03-31"
+	}
 }
 
 

@@ -2,7 +2,7 @@ package tools
 
 import (
 	//  "strings"
-	//  "stadiacue.io/stadiaCue/games"
+	//"stadiacue.io/stadiaCue/games"
 	"tool/cli"
 	"text/tabwriter"
 	//"list"
@@ -16,15 +16,15 @@ import (
 command: ls: {
 	task: printHeaders: cli.Print & {
 		text: tabwriter.Write([
-			"TITLE  \tPEGI  \tSUPPORTED_INPUTS",
+			"TITLE  \tGENRE  \tPEGI",
 		])
 	}
 
-	// task: printContent: cli.Print & {
-	// text: tabwriter.Write(games.gameInfos)
-	// for Line in games.gameInfos {
-	//  "\(Line)"
+	//task: printContent: cli.Print & {
+	//	text: tabwriter.Write(games.gameInfos)
+	//	for Line in games.gameInfos {
+	//		"\(Line)"
+	//	}
+	//	$after: task.printHeaders
 	//}
-	//$after: task.printHeaders
-	// }
 }
