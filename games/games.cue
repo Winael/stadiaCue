@@ -40,7 +40,7 @@ import (
 }
 
 #Price: {
-	price?:               float
+	price?:               float | "Free"
 	actualPrice?:         *price | float
 	actualProPrice?:      float
 }

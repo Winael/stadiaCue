@@ -1,8 +1,8 @@
 package games
 
-//-----------
+//--------
 // FIFA 21
-//-----------
+//--------
 
 game: fifa_21: #Game & {
     uid:		"2c4539adc1e641c0bb2cd0e4032eec75rcp1"

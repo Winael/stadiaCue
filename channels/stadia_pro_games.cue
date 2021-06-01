@@ -9,10 +9,18 @@ stadiaProGames: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-03-01"
 	}
+	blue_fire: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-06-01"
+	}
 	celeste: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2020-10-01"
 		stadiaProEndDate: "2020-12-31"
+	}
+	chronos_before_the_ashes: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-06-01"
 	}
 	crayta: {
 		stadiaProActive: true
@@ -64,6 +72,40 @@ stadiaProGames: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-05-01"
 	}
+	get_packed: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-06-01"
+		stadiaProEndDate: "2020-08-31"
+	}
+	grid: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-03-01"
+		stadiaProEndDate: "2020-08-31"
+	}
+	gunsport: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2020-09-01"
+	}
+	gylt: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-02-01"
+		stadiaProEndDate: "2020-12-31"
+	}
+	hello_neighbor: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-09-01"
+		stadiaProEndDate: "2020-11-30"
+	}
+	hello_neighbor_hide_and_seek: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-11-01"
+		stadiaProEndDate: "2020-02-23"
+	}	
+	hitman_2: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-12-01"
+		stadiaProEndDate: "2021-01-31"
+	}	
 }
 
 

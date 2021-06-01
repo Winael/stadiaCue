@@ -1,8 +1,8 @@
 package games
 
-//-----------
+//-----------------
 // FAR CRY NEW DAWN
-//-----------
+//-----------------
 
 game: far_cry_new_dawn: #Game & {
     uid:		"a2a4ff75e249404a975db7ae5f77e536rcp1"

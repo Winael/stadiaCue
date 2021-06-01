@@ -1,8 +1,8 @@
 package games
 
-//-----------
+//----------
 // EVERSPACE
-//-----------
+//----------
 
 game: everspace: #Game & {
     uid:		"44752f1774ca4508a2c45e57121d7e8frcp1"

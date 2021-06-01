@@ -1,8 +1,8 @@
 package games
 
-//-----------
+//----------
 // FAR CRY 6
-//-----------
+//----------
 
 game: far_cry_6: #Game & {
     uid:		"5eb3896383464e2897b3d4b56a5b3a1drcp1"

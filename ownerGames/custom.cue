@@ -22,6 +22,7 @@ purchasedGames: [
 claimedGames: [
 	"ary_and_the_secret_of_seasons",
 	"avicii_invector",
+	"blue_fire",
 	"celeste",
 	"crayta",
 	"cthulhu_saves_christmas",
@@ -34,6 +35,13 @@ claimedGames: [
 	"farming_simulator_19",
 	"figment",
 	"floor_kids",
+	"get_packed",
+	"grid",
+	"gunsport",
+	"gylt",
+	"hello_neighbor",
+	"hello_neighbor_hide_and_seek",
+	"hitman_2",
 	...
 ]
 

@@ -1,8 +1,8 @@
 package games
 
-//-----------
+//---------------------
 // FARMING SIMULATOR 19
-//-----------
+//---------------------
 
 game: farming_simulator_19: #Game & {
     uid:		"ebf235012b054269af70eee901bc85cfrcp1"
