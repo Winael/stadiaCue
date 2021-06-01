@@ -51,6 +51,19 @@ stadiaProGames: {
 		stadiaProBeginDate: "2021-01-01"
 		stadiaProEndDate: "2020-03-31"
 	}
+	farming_simulator_19: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2019-12-01"
+		stadiaProEndDate: "2020-02-29"
+	}
+	figment: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-01-01"
+	}
+	floor_kids: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-05-01"
+	}
 }
 
 
