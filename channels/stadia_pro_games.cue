@@ -106,6 +106,33 @@ stadiaProGames: {
 		stadiaProBeginDate: "2020-12-01"
 		stadiaProEndDate: "2021-01-31"
 	}	
+	hitman_the_complete_first_season: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2020-09-01"
+	}	
+	hotline_miami: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2021-01-01"
+		stadiaProEndDate: "2021-03-31"
+	}	
+	hotline_miami_2_wrong_number: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-05-01"
+	}
+	human_fall_flat_stadia_edition: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2020-10-01"
+	}	
+	into_the_breach: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-12-01"
+		stadiaProEndDate: "2021-01-31"
+	}	
+	jotun_valhalla_edition: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-10-01"
+		stadiaProEndDate: "2020-12-31"	
+	}	
 }
 
 

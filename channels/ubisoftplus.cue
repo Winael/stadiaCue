@@ -13,4 +13,5 @@ ubisoftplus: [
 	"far_cry_new_dawn",
 	"far_cry_5",
 	"far_cry_6",
+	"immortals_fenyx_rising",
 ]

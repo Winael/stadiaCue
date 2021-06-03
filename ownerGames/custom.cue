@@ -42,6 +42,11 @@ claimedGames: [
 	"hello_neighbor",
 	"hello_neighbor_hide_and_seek",
 	"hitman_2",
+	"hitman_the_complete_first_season",
+	"hotline_miami",
+	"hotline_miami_2_wrong_number",
+	"human_fall_flat_stadia_edition",
+	"into_the_breach",
 	...
 ]
 
