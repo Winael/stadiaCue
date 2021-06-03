@@ -14,8 +14,10 @@ game: hitman_the_complete_first_season: #Game & {
         As you complete missions and contracts new weapons, items and equipment become available for use across all locations. Learn the tools of the trade as you earn your way to Silent Assassin status.
         HITMAN includes a wealth of content and game modes, catering to long-time fans and new players in equal measure. A world of assassination awaits you in this award-winning stealth action game.
     """
-    developers:			"IO Interactive"
-    publisher:			developers
+    developers:	[
+        "IO Interactive"
+    ]
+    publisher:			"IO Interactive"
     stadiaReleaseDate:	"2020-09-01"
     genre: [
         "Action"

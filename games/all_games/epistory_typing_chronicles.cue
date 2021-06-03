@@ -12,8 +12,10 @@ game: epistory_typing_chronicles: #Game & {
     description: """
         Epistory is an atmospheric adventure typing game that tells the story of a writer lacking inspiration who asks her muse to help write her latest book. In Epistory you play the muse, a fictional character in a world where everything is untold. Your adventure begins on a blank page, but the world will soon become larger and livelier as you gather inspiration, solve its mysteries and defeat its enemies. As you progress and explore the fantasy origami world, the story literally unfolds in the writer’s mind and the mysteries of the magic power of the words are revealed.
     """
-    developers:		    "Fishing Cactus"
-    publisher:		    developers
+    developers:	[
+        "Fishing Cactus"
+    ]
+    publisher:		    "Fishing Cactus"
     stadiaReleaseDate:	"2021-02-02"
     genre: [
         "Indie", 

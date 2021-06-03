@@ -1,7 +1,7 @@
 package ownerGames
 
 import (
-	// channels "stadiacue.io/stadiaCue/channels"
+//	channels "stadiacue.io/stadiaCue/channels"
 )
 
 ownLibrary: [...]
@@ -16,6 +16,9 @@ purchasedGames: [
 	"far_cry_new_dawn",
 	"far_cry_5",
 	"final_fantasy_15",
+	"judgment",
+	"little_big_workshop",
+	"marvels_avengers",
 	...
 ]
 
@@ -47,18 +50,32 @@ claimedGames: [
 	"hotline_miami_2_wrong_number",
 	"human_fall_flat_stadia_edition",
 	"into_the_breach",
+	"jotun_valhalla_edition",
+	"journey_to_the_savage_planet",
+	"just_shapes_and_beats",
+	"kine",
+	"kona",
+	"lara_croft_and_the_guardian_of_light",
+	"lara_croft_and_the_temple_of_osiris",
+	"little_nightmares",
+	"little_nightmares_2",
 	...
+]
+
+preOrderedGames: [
+	"humankind",
+	"life_is_strange_true_colors",
 ]
 
 stadiaProEnabled: true
 ubisoftplusEnabled: true
 
-ownLibrary: ownLibrary & purchasedGames
+ownLibrary: purchasedGames
 
-// if stadiaProEnabled {
-//	ownLibrary: ownLibrary & claimedGames
-// }
+if stadiaProEnabled {
+	ownLibrary: ownLibrary + claimedGames
+}
 
 // if ubisoftplusEnabled {
-//	ownLibrary: ownLibrary & channels.ubisoftplus
+// 	ownLibrary: ownLibrary + channels.ubisoftplus
 // }

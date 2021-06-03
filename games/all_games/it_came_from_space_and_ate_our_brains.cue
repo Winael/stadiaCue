@@ -15,8 +15,10 @@ game: it_came_from_space_and_ate_our_brains: #Game & {
 
         Addicting gameplay elements, co-op mode, and a way to turn aliens into goo? It’s all here! Explore atmospheric locations with a flashlight and a weapon powerful enough to blast those unwanted intergalactic guests back into space. Survive hordes of enemies trying to corner you and get inside your skull… at least until you set a new high score and die like a badass!
     """
-    developers:			"Triangle Studios"
-    publisher:			developers
+    developers:	[
+        "Triangle Studios"
+    ]
+    publisher:			"Subset Games"
     stadiaReleaseDate:	"2021-03-02"
     genre: [
         "Shooter", 

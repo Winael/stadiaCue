@@ -11,7 +11,9 @@ game: enter_the_gungeon: #Game & {
     description: """
         Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero [or team up in co-op] and battle your way to the bottom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.
     """
-    developers:		        "Dodge Roll"
+    developers:	[
+        "Dodge Roll"
+    ]
     publisher:		        "Devolver Digital"
     stadiaReleaseDate:		"2020-12-22"
     genre: [

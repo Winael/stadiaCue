@@ -11,8 +11,10 @@ game: gylt: #Game & {
     description: """
         Face your fears in GYLT, a haunting tale about bullying and childhood nightmares, as you help Sally navigate a creepy world to rescue her missing cousin Emily. GYLT is available only on Stadia!
     """
-    developers:			"Tequila Works"
-    publisher:			developers
+    developers:	[
+        "Tequila Works"
+    ]
+    publisher:			"Tequila Works"
     stadiaReleaseDate:	"2019-11-19"
     genre: [
         "Action", 

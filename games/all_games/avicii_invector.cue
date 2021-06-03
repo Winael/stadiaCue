@@ -14,7 +14,10 @@ game: avicii_invector: #Game & {
 	description: """
         Belt up and blast into the rhythmic regions of unexplored space in AVICII Invector. Created in collaboration with the late superstar DJ, AVICII Invector is a pulse-pounding, frenetic rhythm-action experience. Soar through vocal melodies, sweep each fade and attack every beat in 25 of AVICII’s biggest hits, including global chart toppers: Without You, Wake Me Up and Lay Me Down.
     """
-	developers:           "Hello There"
+	developers: [
+        "Hello There"
+    ]
+    publisher: "Hello There"
 	stadiaReleaseDate:    "2021-03-01"
 	pegi:                 3
 	languages: [

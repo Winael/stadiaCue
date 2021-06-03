@@ -14,7 +14,10 @@ game: assassins_creed_syndicate: #Game & {
     description: """
         London, 1868. In the heart of the Industrial Revolution, lead your underworld organization and grow your influence to fight those who exploit the less privileged in the name of progress.As Jacob Frye, a young and reckless Assassin, use your skills to help those trampled by the march of progress. From freeing exploited children used as slave labour in factories, to stealing precious assets from enemy boats, you will stop at nothing to bring justice back to London’s streets. To reclaim London for the people, you will need an army. As a gang leader, strengthen your stronghold and rally rival gang members to your cause, in order to take back the capital from the Templars’ hold.
     """
-    developers:           "Ubisoft"
+    developers: [
+        "Ubisoft"
+    ]
+    publisher: "Ubisoft"
     stadiaReleaseDate:    "2020-12-15"
     pegi:                 18
     price: float

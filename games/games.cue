@@ -15,7 +15,7 @@ import (
 	#Price
 	pegi:                 int
 	description:          string
-	developers:           string
+	developers:           [...]
 	publisher:            string
 	stadiaReleaseDate:    string
 	genre: [...]

@@ -11,8 +11,10 @@ game: farming_simulator_19: #Game & {
     description: """
         In Farming Simulator 19 you’ll take control of vehicles and machines faithfully recreated from all the leading brands in the industry, including John Deere, Case IH, New Holland, Challenger, Fendt, Massey Ferguson, Valtra, Krone, Deutz-Fahr and many more. Explore new American and European environments in which to develop and expand your farm. Enjoy many exciting new farming activities, including new machinery and crops with cotton and oat! Tend to your livestock of pigs, cows, sheep, and chickens - or ride your horses for the first time.
     """
-    developers:			"GIANTS Software"
-    publisher:			developers
+    developers:	[
+        "GIANTS Software"
+    ]
+    publisher:			"GIANTS Software"
     stadiaReleaseDate:	"2010-11-19"
     genre: [
         "Simulation", 

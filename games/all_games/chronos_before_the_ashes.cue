@@ -17,7 +17,10 @@ game: chronos_before_the_ashes: #Game & {
 		Grow wiser, stronger and more powerful as you explore the depths of the mysterious labyrinth.
 		But beware, the labyrinth takes a heavy toll – each time your hero dies, they lose a year of their life!
 		"""
-	developers:        "THQ Nordic"
+	developers: [
+		"THQ Nordic"
+	]
+	publisher: "THQ Nordic"
 	stadiaReleaseDate: "2020-12-01"
 	pegi:              16
 	price:             29.99

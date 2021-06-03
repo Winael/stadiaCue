@@ -16,8 +16,10 @@ game: immortals_fenyx_rising: #Game & {
         Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.
         Discover a stylized open world across seven unique regions, each inspired by the gods.
     """
-    developers:			"Ubisoft"
-    publisher:			developers
+    developers:	[
+        "Ubisoft"
+    ]
+    publisher:			"Ubisoft"
     stadiaReleaseDate:	"2020-12-02"
     genre: [
         "Action", 

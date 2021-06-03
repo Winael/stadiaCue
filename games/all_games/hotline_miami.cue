@@ -11,8 +11,10 @@ game: hotline_miami: #Game & {
     description: """
         Hotline Miami is a high-octane action game overflowing with raw brutality, hard-boiled gunplay and skull crushing close combat. Set in an alternative 1989 Miami, you will assume the role of a mysterious antihero on a murderous rampage against the shady underworld at the behest of voices on your answering machine. Soon you'll find yourself struggling to get a grip of what is going on and why you are prone to these acts of violence.
     """
-    developers:			"Devolver Digital"
-    publisher:			developers
+    developers:	[
+        "Devolver Digital"
+    ]
+    publisher:			"Devolver Digital"
     stadiaReleaseDate:	"2020-09-23"
     genre: [
         "Action", 

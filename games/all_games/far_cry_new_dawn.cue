@@ -20,8 +20,10 @@ game: far_cry_new_dawn: #Game & {
         BUILD UP YOUR HOMEBASE AND THE SURVIVORS
         Recruit Specialists to upgrade your homebase, who will help unlock all new features including crafting weapons, gear and more.
     """
-    developers:			"Ubisoft"
-    publisher:			developers
+    developers:	[
+        "Ubisoft"
+    ]
+    publisher:			"Ubisoft"
     stadiaReleaseDate:	"2020-11-03"
     genre: [
         "Shooter"

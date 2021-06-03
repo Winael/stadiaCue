@@ -17,7 +17,9 @@ game: assassins_creed_valhalla: #Game & {
 		Explore a Dark Age open world, from the shores of Norway to the kingdoms of England.
 		Personalize your experience by growing your clan's settlement.
 		"""
-	developers:          "Ubisoft"
+	developers: [
+		"Ubisoft"
+	]
 	publisher:           "Ubisoft"
 	stadiaReleaseDate:   "2020-11-10"
 	originalReleaseDate: "2020-11-10"

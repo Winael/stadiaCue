@@ -27,7 +27,9 @@ game: humankind: #Game & {
         
         Soundtrack & pdf poster will be available at the release of the game on www.games2gether.com/profile/me/rewards.
     """
-    developers:			"Amplitude Studios"
+    developers:	[
+        "Amplitude Studios"
+    ]
     publisher:			"Sega Europe"
     stadiaReleaseDate:	"2021-08-17"
     genre: [

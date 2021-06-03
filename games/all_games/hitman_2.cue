@@ -13,8 +13,10 @@ game: hitman_2: #Game & {
 
         Prepare to experience the ultimate spy thriller story; your mission is to eliminate the elusive Shadow Client and unravel his militia, but when 47 learns his target's true identity and the truth about his past, it changes everything.
     """
-    developers:			"IO Interactive"
-    publisher:			developers
+    developers:	[
+        "IO Interactive"
+    ]
+    publisher:			"IO Interactive"
     stadiaReleaseDate:	"2020-09-01"
     genre: [
         "Action"

@@ -17,7 +17,9 @@ game: embr: #Game & {
 
         As an Embr Respondr™️ you'll answer clients' calls for help, and bring firefighting directly to their door! Break down doors, clear gas leaks and put out fires - no job is too much for an Embr Respondr™️.
     """
-    developers:		        "Muse Games"
+    developers:	[
+        "Muse Games"
+    ]
     publisher:		        "Curve Digital"
     stadiaReleaseDate:		"2020-05-21"
     genre: [

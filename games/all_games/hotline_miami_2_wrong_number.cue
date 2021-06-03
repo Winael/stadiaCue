@@ -11,8 +11,10 @@ game: hotline_miami_2_wrong_number: #Game & {
     description: """
         Hotline Miami 2: Wrong Number is the brutal conclusion to the Hotline Miami saga, set against a backdrop of escalating violence and retribution over spilled blood in the original game. Follow the paths of several distinct factions – each with their own questionable methods and uncertain motivations – as unforeseen consequences intersect and reality once again slips back into a brilliant haze of neon and bloodshed.
     """
-    developers:			"Devolver Digital"
-    publisher:			developers
+    developers:	[
+        "Devolver Digital"
+    ]
+    publisher:			"Devolver Digital"
     stadiaReleaseDate:	"2020-09-22"
     genre: [
         "Action", 

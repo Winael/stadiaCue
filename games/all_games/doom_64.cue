@@ -14,7 +14,9 @@ game: doom_64: #Game & {
 	description: """
         Celebrate DOOM's 25th anniversary with the release of DOOM 64, originally released on the Nintendo 64 in 1997, and now available for the first time on Stadia. Fight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As you battle through more than 30 action-packed levels, be on the lookout for enhanced weapons and secrets to help you put an end to the demonic threat.
     """
-	developers:           "Nightdive Studios"
+	developers: [
+        "Nightdive Studios"
+    ]
 	publisher:            "Bethesda Softworks"
 	stadiaReleaseDate:    "2020-05-12"
 	pegi:                 16

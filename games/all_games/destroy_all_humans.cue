@@ -15,7 +15,9 @@ game: destroy_all_humans: #Game & {
 		The cult-classic returns!
 		Terrorize the people of 1950's Earth in the role of the evil alien Crypto-137. Harvest their DNA and bring down the US government in the faithful remake of the legendary alien invasion action adventure. Annihilate puny humans using an assortment of alien weaponry and psychic abilities. Reduce their cities to rubble with your flying Saucer! One giant step on mankind!
 		"""
-	developers:        "Black Forest Games"
+	developers:  [
+		"Black Forest Games"
+	]
 	publisher:         "THQ Nordic"
 	stadiaReleaseDate: "2020-12-08"
 	pegi:              16

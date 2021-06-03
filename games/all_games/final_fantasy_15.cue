@@ -11,7 +11,9 @@ game: final_fantasy_15: #Game & {
     description: """
         Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before.
     """
-    developers:			"Square Enix Japan"
+    developers:	[
+        "Square Enix Japan"
+    ]
     publisher:			"Square Enix"
     stadiaReleaseDate:	"2019-11-19"
     genre: [

@@ -13,8 +13,10 @@ game: cosmic_star_heroine: #Game & {
 	description: """
         Alyssa L'Salle was one of the top secret agents at the Agency of Peace & Intelligence on the Planet Araenu. But when she uncovers a horrible conspiracy, she has to go rogue in order to save the day! Can Alyssa save the galaxy when everyone (and everything) is out to stop her!    
     """
-	developers:           "Zeboyd Digital Entertainment LLC"
-	publisher:            developers
+	developers: [
+		"Zeboyd Digital Entertainment LLC"
+	]
+	publisher:            "Zeboyd Digital Entertainment LLC"
 	stadiaReleaseDate:    "2021-04-01"
 	pegi:                 12
 	price:                12.99

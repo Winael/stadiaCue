@@ -16,7 +16,10 @@ game: cyberpunk_2077: #Game & {
 		You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.
 		You can customize your character’s cyberware, skillset and playstyle, and explore a vast city where the choices you make shape the story and the world around you.
 		"""
-	developers:          "CD Projekt Red"
+	developers: [
+		"CD Projekt Red"
+	]
+	publisher: "CD Projekt Red"
 	stadiaReleaseDate:   "2020-12-10"
 	originalReleaseDate: stadiaReleaseDate
 	pegi:                18

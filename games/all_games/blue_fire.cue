@@ -12,8 +12,10 @@ game: blue_fire: #Game & {
         A Dark World Awaits - Travel through the perished world of Penumbra to explore unique areas filled with diverse enemies, sharp 3D platforming challenges, quests, collectibles, and more.
         Embark on an extraordinary journey through the desolated kingdom of Penumbra and discover the hidden secrets of this long-forgotten land. Explore mystical temples, encounter survivors and take on strange quests to collect valuable items. Along your adventure, slash your way through daunting adversaries, roam across mysterious and abandoned regions, leap through deadly traps and ultimately master the art of movement.
     """
-    developers:			"Graffiti Games"
-    publisher:			developers
+    developers:	[
+        "Graffiti Games"
+    ]
+    publisher:		    "Graffiti Games"
     stadiaReleaseDate:	"2021-06-01"
     genre: [
         "Indie", 

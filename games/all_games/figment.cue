@@ -11,8 +11,10 @@ game: figment: #Game & {
     description: """
         Figment is an action-adventure game that invites you to explore a unique surreal universe filled with music, humor and multi layered narrative. Join Dusty and his ever-optimistic friend, Piper, on an adventure through the different sides of the mind seeking to restore the courage that's been lost.
     """
-    developers:			"Bedtime Digital Games"
-    publisher:			developers
+    developers:	[
+        "Bedtime Digital Games"
+    ]
+    publisher:			"Bedtime Digital Games"
     stadiaReleaseDate:	"2020-12-08"
     genre: [
         "Adventure", 

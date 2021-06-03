@@ -17,7 +17,9 @@ game: darksiders_genesis: #Game & {
 		DARKSIDERS: GENESIS is an action/adventure that tears its way through hordes of demons, angels, and everything in-between on its way to Hell and back with guns blazing and swords swinging.
 		Genesis gives players their first look at the world of DARKSIDERS before the events of the original game, as well as introduces the horseman STRIFE.
 		"""
-	developers:        "Airship Syndicate"
+	developers: [
+		"Airship Syndicate"
+	]
 	publisher:         "THQ Nordic"
 	stadiaReleaseDate: "2019-12-05"
 	pegi:              12

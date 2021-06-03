@@ -11,8 +11,10 @@ game: everspace: #Game & {
     description: """
         EVERSPACE™ combines fast-paced combat with roguelike elements, great visuals and a captivating story. It takes you on a challenging journey through an ever-changing, beautifully crafted universe full of surprises. Shoot, craft and loot your way to victory while the odds are stacked against you.
 """
-    developers:			"ROCKFISH Games"
-    publisher:			developers
+    developers:	[
+        "ROCKFISH Games"
+    ]
+    publisher:			"ROCKFISH Games"
     stadiaReleaseDate:	"2020-12-01"
     genre: [
         "Shooter", 

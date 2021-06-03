@@ -12,8 +12,10 @@ game: hundred_days_winemaking_simulator: #Game & {
     description: """
         In Hundred Days you will have complete control of a new Winery. First choose which vines to grow, learn how to grow them and when to harvest. Then following the entire winemaking process deciding on the type of wine you want to produce or the market requires. You will also have to sell the wine produced to allow your company to expand. As in reality, every choice made, from the vineyard to the sales, will be able to influence the wine produced both in quantity and quality. A quality wine will increase the reputation of your company worldwide, it may have come at a higher price and will allow you to grow better and faster.
     """
-    developers:			"Broken Arms Games"
-    publisher:			""
+    developers:	[
+        "Broken Arms Games"
+    ]
+    publisher:			"Broken Arms Games"
     stadiaReleaseDate:	"2021-05-13"
     genre: [
         "Simulation", 

@@ -13,8 +13,10 @@ game: cthulhu_saves_christmas: #Game & {
 	description?:         """
         The master of insanity, Cthulhu, has lost his powers (again!?) and the only way he can get them back is by rescuing Santa Claus from the League of Christmas Evil! Join Cthulhu, the Snow Maiden, Baba Yaga-chan, and Belsnickel as they build R'lyehtionships, fight the League of Christmas Evil, and catch the Christmas spirit! Fhtagn!
     """
-	developers:           "Zeboyd Digital Entertainment LLC"
-	publisher?:           developers
+	developers: [
+        "Zeboyd Digital Entertainment LLC"
+    ]
+	publisher:           "Zeboyd Digital Entertainment LLC"
 	stadiaReleaseDate:    "2020-12-22"
 	pegi:                 7
 	languages: [

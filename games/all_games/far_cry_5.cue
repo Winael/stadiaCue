@@ -21,8 +21,10 @@ game: far_cry_5: #Game & {
         CARVE YOUR OWN PATH
         Build your character and choose your adventure in the largest customizable Far Cry game ever!
     """
-    developers:			"Ubisoft"
-    publisher:			developers
+    developers:	[
+        "Ubisoft"
+    ]
+    publisher:			"Ubisoft"
     stadiaReleaseDate:	"2020-11-03"
     genre: [
         "Shooter"

@@ -12,8 +12,10 @@ game: hitman_free_starter_pack: #Game & {
     description: """
         Become Agent 47 and experience the start of the World of Assassination trilogy for FREE. Begin your journey as an initiate and meet your handler at the training facility to become an Agent of the ICA. Now, you're ready for action.
     """
-    developers:			"IO Interactive"
-    publisher:			developers
+    developers:	[
+        "IO Interactive"
+    ]
+    publisher:			"IO Interactive"
     stadiaReleaseDate:	"2021-03-30"
     genre: [
         "Action"

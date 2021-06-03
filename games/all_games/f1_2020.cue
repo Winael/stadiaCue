@@ -11,8 +11,10 @@ game: f1_2020: #Game & {
     description: """
         F1® 2020 allows you to create your F1® team for the very first time and race alongside the official teams and drivers. Alternatively, challenge your friends in new split-screen with casual race options for more relaxed racing. Compete on 22 circuits, with current and classic content.
     """
-    developers:			"Codemasters"
-    publisher:			developers
+    developers:	[
+        "Codemasters"
+    ]
+    publisher:			"Codemasters"
     stadiaReleaseDate:	"2020-07-05"
     genre: [
         "Racing", 

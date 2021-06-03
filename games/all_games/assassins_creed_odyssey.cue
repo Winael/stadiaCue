@@ -19,7 +19,10 @@ game: assassins_creed_odyssey: #Game & {
 		   - The Blind King quest,
 		   - The Kronos Pack featuring 5 epic pieces of armour, an epic weapon and an epic mount.
 		"""
-	developers:          "Ubisoft"
+	developers: [
+	    "Ubisoft"
+	]
+	publisher: "Ubisoft"
 	stadiaReleaseDate:   "2019-11-19"
 	originalReleaseDate: "2018-10-05"
 	pegi:                18

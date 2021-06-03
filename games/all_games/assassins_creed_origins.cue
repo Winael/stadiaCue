@@ -14,7 +14,10 @@ game: assassins_creed_origins: #Game & {
     description: """
         Assassin’s Creed Origins Is A New Beginning. Ancient Egypt, a land of majesty and intrigue, is disappearing in a ruthless fight for power. Unveil dark secrets and forgotten myths as you go back to the one founding moment: The Origins of the Assassin’s Brotherhood. A countries to Discover. Sail down the Nile, uncover the mysteries of the pyramids or fight your way against dangerous ancient factions and wild beasts as you explore this gigantic and unpredictable land. A New Story Every Time You Play. Engage into multiple quests and gripping stories as you cross paths with strong and memorable characters, from the wealthiest high-born to the most desperate outcasts. Embrace Action-RPG. Experience a completely new way to fight.
     """
-    developers: "Ubisoft"
+    developers: [
+        "Ubisoft"
+    ]
+    publisher: "Ubisoft"
     stadiaReleaseDate: "2020-12-15"
     pegi: 18
     price: 69.99

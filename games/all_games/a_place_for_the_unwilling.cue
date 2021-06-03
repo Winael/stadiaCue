@@ -16,7 +16,10 @@ game: a_place_for_the_unwilling: #Game & {
 		    Speak to everyone from eerie politicians to chain-smoking child anarchists. Work as a trader, socialise, explore the town freely, and play a role in the city’s hierarchy.
 		    Combining exquisite narrative depth and exploration with a curious setup - plus a dash of Lovecraft - A Place for the Unwilling is a rich narrative experience where player choices really do count, set in a Dickensian world of colour and Eldritch nightmares.
 		"""
-	developers:        "ALPixel"
+	developers: [
+		"ALPixel"
+	]
+	publisher: "ALPixel"
 	stadiaReleaseDate: "2021-02-23"
 	pegi:              16
 	price:             14.99

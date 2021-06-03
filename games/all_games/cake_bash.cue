@@ -21,7 +21,9 @@ game: cake_bash: #Game & {
 		Compete on the same screen, find challengers online or battle well-baked bots. I
 		t’s time to get out of the oven and into the fray!
 		"""
-	developers:          "High Tea Frog"
+	developers: [
+		"High Tea Frog"
+	]
 	publisher:           "Coatsink"
 	stadiaReleaseDate:   "2020-10-15"
 	originalReleaseDate: stadiaReleaseDate

@@ -31,7 +31,9 @@ game: baldurs_gate_3_early_access: #Game & {
 
 		Baldur's Gate 3 supports Crowd Choice, a Stadia Enhanced Feature
 		"""
-	developers:        "Larian Studios"
+	developers: [
+		"Larian Studios"
+	]
 	publisher:         "Larian Studios"
 	stadiaReleaseDate: "2020-10-06"
 	pegi:              18

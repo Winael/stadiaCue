@@ -14,7 +14,10 @@ game: celeste: #Game & {
 	description: """
 		Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.
 	"""
-	developers:        "Matt Makes Games"
+	developers: [
+		"Matt Makes Games"
+	]
+	publisher: "Matt Makes Games"
 	stadiaReleaseDate: "2020-07-28"
 	pegi:              7
 	price:             19.99

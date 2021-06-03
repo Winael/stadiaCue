@@ -24,8 +24,10 @@ game: get_packed: #Game & {
         Co-op chaos and carnage across 15 locations
         4 Customizable/Playable characters
     """
-    developers:			"Coatsink"
-    publisher:			developers
+    developers:	[
+        "Coatsink"
+    ]
+    publisher:			"Coatsink"
     stadiaReleaseDate:	"2020-04-28"
     genre: [
         "Party", 

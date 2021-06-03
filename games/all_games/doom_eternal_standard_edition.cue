@@ -14,7 +14,9 @@ game: doom_eternal_standard_edition: #Game & {
 	description: """
         Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you. Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat. Armed with a shoulder-mounted flamethrower, retractable wrist-mounted blade, upgraded guns and mods and abilities, you're faster, stronger, and more versatile than ever. And enter BATTLEMODE, the new 2 versus 1 multiplayer experience where a fully-armed DOOM Slayer faces off against two player-controlled demons, fighting it out in a best-of-five round match of intense first-person combat.
     """
-	developers:           "ID Software"
+	developers: [
+        "ID Software"
+    ]
 	publisher:            "Bethesda Softworks"
 	stadiaReleaseDate:    "2020-03-20"
 	pegi:                 18

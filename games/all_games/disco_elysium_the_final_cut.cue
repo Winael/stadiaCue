@@ -14,8 +14,10 @@ game: disco_elysium_the_final_cut: #Game & {
 	description: """
         A groundbreaking role playing game. Become a hero or an absolute disaster.
     """
-	developers:           "ZAUM"
-	publisher:            developers
+	developers: [
+        "ZAUM"
+    ]
+	publisher:            "ZAUM"
 	stadiaReleaseDate:    "2021-03-30"
 	pegi:                 18
 	price:                39.99

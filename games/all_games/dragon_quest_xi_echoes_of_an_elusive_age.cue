@@ -15,8 +15,10 @@ game: dragon_quest_xi_echoes_of_an_elusive_age: #Game & {
         The Definitive Edition includes all the content from the original release of the acclaimed DRAGON QUEST XI, and adds extra character-specific scenarios, the choice of playing with the original soundtrack or a grand orchestral version of the music, the ability to switch between 2D and 3D graphic modes, a Japanese voice-acting option, and much more!
         Embark upon an epic adventure as The Luminary: the chosen one in a world that vows to hunt him down. The Luminary and his unique band of loyal companions work together to survive an onslaught of ne’er-do-wells and overthrow the dark forces that plot to plunge the world of Erdrea into chaos. Explore the massive world of DRAGON QUEST and awaken your power in this can't-miss adventure!
     """
-	developers:           "ORCA"
-	publisher?:           "Square Enix"
+	developers: [
+        "ORCA"
+    ]
+	publisher:           "Square Enix"
 	stadiaReleaseDate:    "2021-03-16"
 	pegi:                 12
 	languages: [

@@ -18,7 +18,9 @@ game: ary_and_the_secret_of_seasons: #Game & {
 		By becoming the Guardian of Winter, Ary gains the ability to manipulate the seasons around her.
 		Ary will learn to control the seasons and use them to defeat enemies, overcome obstacles, and solve complex puzzles on her adventure across Valdi.
 		"""
-	developers:        "Modus Games"
+	developers: [
+	    "Modus Games"
+	]
 	publisher:         "Poppy Works"
 	stadiaReleaseDate: "2020-11-05"
 	pegi:              12

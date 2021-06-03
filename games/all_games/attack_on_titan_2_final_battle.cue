@@ -13,7 +13,9 @@ game: attack_on_titan_2_final_package: #Game & {
 	description: """
 		"A.O.T. 2: Final Battle" contains the latest content for the tactical hunting action series based on the hit anime series "Attack on Titan". More than 40 playable characters join the battle! Through "Story Mode" experience the drama of seasons 1 and 2 of the anime firsthand, playing as the game-original protagonist! Via "Another Mode" play as other characters, too, and enjoy versus and cooperative battles online with other players as well! In "Character Episode Mode" experience season 3 through the eyes of the characters of the original anime! "Territory Recovery Mode" lets you create your own regiment and gather comrades to try and recapture territory outside the Walls!
 		"""
-	developers:        "KOEI TECMO GAMES CO., LTD."
+	developers: [
+		"KOEI TECMO GAMES CO., LTD."
+	]
 	publisher:         "KOEI TECMO GAMES CO., LTD."
 	stadiaReleaseDate: "2019-11-19"
 	pegi:              18

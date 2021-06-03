@@ -17,7 +17,9 @@ game: borderlands_3: #Game & {
 		Blast through new worlds and enemies as one of four new Vault Hunters.
 		Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.
 		"""
-	developers:        "Gearbox"
+	developers: [
+		"Gearbox"
+	]
 	publisher:         "2K"
 	stadiaReleaseDate: "2019-12-17"
 	pegi:              18

@@ -133,6 +133,44 @@ stadiaProGames: {
 		stadiaProBeginDate: "2020-10-01"
 		stadiaProEndDate: "2020-12-31"	
 	}	
+	journey_to_the_savage_planet: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-02-01"
+	}	
+	just_shapes_and_beats: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-08-01"
+		stadiaProEndDate: "2020-10-31"	
+	}		
+	kine: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-12-01"
+		stadiaProEndDate: "2021-02-28"	
+	}	
+	kona: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-08-01"
+		stadiaProEndDate: "2020-08-31"	
+	}	
+	lara_croft_and_the_guardian_of_light: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2021-02-01"
+		stadiaProEndDate: "2021-04-30"	
+	}	
+	lara_croft_and_the_temple_of_osiris: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-10-01"
+		stadiaProEndDate: "2020-12-31"	
+	}
+	little_nightmares: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-06-01"
+		stadiaProEndDate: "2020-11-30"	
+	}	
+	little_nightmares_2: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-02-11"
+	}		
 }
 
 

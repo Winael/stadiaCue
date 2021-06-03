@@ -17,7 +17,9 @@ game:dragon_ball_xenoverse_2: #Game & {
         Join 300 players from around the world in the new hub city of Conton & fight with or against them.
         You can view the Figure’s drop-rate in the URL below
     """
-	developers:           "Dimps"
+	developers: [
+        "Dimps"
+    ]
 	publisher:            "BANDAI NAMCO Entertainment"
 	stadiaReleaseDate:    "2019-12-17"
 	pegi:                 12

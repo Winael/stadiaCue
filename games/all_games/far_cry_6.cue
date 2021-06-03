@@ -23,8 +23,10 @@ game: far_cry_6: #Game & {
         GUERRILLA FIREPOWER
         Employ makeshift weapons, vehicles, and Amigos, the new Fangs for Hire to burn the tyrannical regime to the ground.
     """
-    developers:			"Ubisoft"
-    publisher:			developers
+    developers:	[
+        "Ubisoft"
+    ]
+    publisher:			"Ubisoft"
     stadiaReleaseDate:	"2021-10-07"
     genre: [
         "Shooter", 

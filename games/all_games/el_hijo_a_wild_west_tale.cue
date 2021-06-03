@@ -13,7 +13,9 @@ game: el_hijo_a_wild_west_tale: #Game & {
 
         “El Hijo - A Wild West Tale” is a non-violent stealth game, replacing violence with the mischievous, playfulness of a young child. One core element of the gameplay is “El Hijo” using the shadows to his advantage to hide from outlaws. The gameplay is extended naturally, as variations of existing mechanics are gradually introduced and then combined to increase the challenge. These twists on familiar mechanics are often a product of the varied environments that the boy must traverse to reach his ultimate goal: Freedom.
     """
-	developers:           "Honig Studios"
+	developers: [
+        "Honig Studios"
+    ]
 	publisher:            "Handy Games"
 	stadiaReleaseDate:    "2020-12-03"
 	genre: [

@@ -14,7 +14,9 @@ game: doom_2016: #Game & {
 	description: """
 		Developed by id Software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, DOOM returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. Combine your arsenal of futuristic and iconic guns, upgrades, movement and an advanced melee system to knock-down, slash, stomp, crush, and blow apart demons in creative and violent ways.
 		"""
-	developers:        "ID Software"
+	developers: [
+		"ID Software"
+	]
 	publisher:         "Bethesda Softworks"
 	stadiaReleaseDate: "2020-08-18"
 	pegi:              18

@@ -18,7 +18,10 @@ game: crayta: #Game & {
 		Create and collaborate in real-time, then share your games instantly with the Crayta community.
 		Powerful, flexible, accessible, fun – game creation is now a game in itself!
 		"""
-	developers:          "Unit 2 Games"
+	developers: [
+		"Unit 2 Games"
+	]
+	publisher: "Unit 2 Games"
 	stadiaReleaseDate:   "2020-07-01"
 	originalReleaseDate: stadiaReleaseDate
 	pegi:                12

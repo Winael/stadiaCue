@@ -11,8 +11,10 @@ game: hello_neighbor_hide_and_seek: #Game & {
     description: """
         Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor’s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with the loss of a family member. The game explains events that lead up to the original Stealth Horror hit Hello Neighbor.
     """
-    developers:			"TinyBuild"
-    publisher:			developers
+    developers:	[
+        "TinyBuild"
+    ]
+    publisher:			"TinyBuild"
     stadiaReleaseDate:	"2020-11-01"
     genre: [
         "Action", 

@@ -11,8 +11,10 @@ game: grid: #Game & {
     description: """
         GRID is a racing experience like no other. Offering unrivalled wheel-to-wheel racing for everyone, where every race is unpredictable as you create rivals and nemeses on your road to conquering the world of motorsport. Play now and get your heart racing.
     """
-    developers:			"Codemasters"
-    publisher:			developers
+    developers:	[
+        "Codemasters"
+    ]
+    publisher:			"Codemasters"
     stadiaReleaseDate:	"2019-11-19"
     genre: [
         "Racing"

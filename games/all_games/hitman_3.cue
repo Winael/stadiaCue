@@ -21,8 +21,10 @@ game: hitman_3: #Game & {
 
         Internet access and a free IOI Account required to redeem the digital soundtrack and the digital “World of Hitman“ book. For more information, please visit ioi.dk/ioi-account
     """
-    developers:			"IO Interactive"
-    publisher:			developers
+    developers:	[
+        "IO Interactive"
+    ]
+    publisher:			"IO Interactive"
     stadiaReleaseDate:	"2021-01-20"
     genre: [
         "Action"

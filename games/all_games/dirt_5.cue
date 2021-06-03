@@ -14,8 +14,10 @@ game: dirt_5: #Game & {
 	description: """
         Let Loose in DIRT 5 - the boldest off-road racing experience ever, with a star-studded Career, four-player split-screen, innovative online modes, livery editor and more. Blaze a trail on global tracks, covering gravel, ice, snow and sand, with cars ranging from rally icons, to trucks, to GT heroes.
     """
-	developers:           "Codemasters"
-	publisher:            developers
+	developers: [
+        "Codemasters"
+    ]
+	publisher:            "Codemasters"
 	stadiaReleaseDate:    "2020-03-24"
 	pegi:                 12
 	price:                69.99

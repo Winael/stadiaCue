@@ -20,7 +20,10 @@ game: dead_by_daylight: #Game & {
 
 		The Survivors' goal in each encounter is to escape the Killing Ground without getting caught by the Killer - something that sounds easier than it is, especially when the environment changes every time you play.
 		"""
-	developers:        "Behaviour Interactive"
+	developers: [
+		"Behaviour Interactive"
+	]
+	publisher: "Behaviour Interactive"
 	stadiaReleaseDate: "2020-10-01"
 	pegi:              18
 	price:             19.99

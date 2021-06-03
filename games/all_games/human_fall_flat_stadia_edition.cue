@@ -14,7 +14,9 @@ game: human_fall_flat_stadia_edition: #Game & {
         Should your Human fall from a rope, misjudge a platform or even get pushed off a cliff by a friend, never fear: they will simply fall back into the dream, ready to try again and again.
         Human: Fall Flat can be played solo or with up to 16 players online for even more laughter.
     """
-    developers:			"No Brakes Games"
+    developers:	[
+        "No Brakes Games"
+    ]
     publisher:			"Curve Digital"
     stadiaReleaseDate:	"2020-10-01"
     genre: [

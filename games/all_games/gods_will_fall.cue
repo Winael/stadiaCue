@@ -15,7 +15,9 @@ game: gods_will_fall: #Game & {
         Experience the brutal trials of a venturous band of warriors in their desperate plight to sever the gods’ callous grip on humanity. Every man and woman who can muster a blade, having suffered the brutality of the gods’ reign for too long, will be called upon to form your clan of 8 Celtic survivors and rise up to take on the legions of horrific beasts and minions that dwell in each of the gods’ hellish realms.
         A personal tale emerges with every decision made. Succeed and see legends born. Fail, and watch lives turn to dust.
     """
-    developers:			"Clever Beans"
+    developers:	[
+        "Clever Beans"
+    ]
     publisher:			"Koch Media"
     stadiaReleaseDate:	"2021-01-29"
     genre: [

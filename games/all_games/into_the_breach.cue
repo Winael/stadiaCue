@@ -11,8 +11,10 @@ game: into_the_breach: #Game & {
     description: """
         The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.
     """
-    developers:			"Subset Games"
-    publisher:			developers
+    developers:	[
+        "Subset Games"
+    ]
+    publisher:			"Subset Games"
     stadiaReleaseDate:	"2020-12-01"
     genre: [
         "Indie", 

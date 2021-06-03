@@ -17,8 +17,10 @@ game: fifa_21: #Game & {
 
         This game includes optional purchase of virtual currency that can be used to acquire a random selection of virtual in-game items through “packs”. EA displays pack probabilities in-game. See ‘Loot box drop rates’ below for information on how probabilities are calculated.
     """
-    developers:			"Electronic Arts Inc"
-    publisher:			"developers"
+    developers:	[
+        "Electronic Arts Inc"
+    ]
+    publisher:			"Electronic Arts Inc"
     stadiaReleaseDate:	"2021-03-17"
     genre: [
         "Sports"

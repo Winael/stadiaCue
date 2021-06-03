@@ -27,7 +27,10 @@ game: destiny_2: #Game & {
 		    **Exotic Weapons and Armor**
 		    Thousands of weapons, millions of options. Discover new gear combinations and define your own personal style. The hunt for the perfect arsenal begins.
 		"""
-	developers:        "Bungie"
+	developers: [
+		"Bungie"
+	]
+	publisher: "Bungie"
 	stadiaReleaseDate: "2019-11-19"
 	pegi:              16
 	price:             0.00

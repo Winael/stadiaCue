@@ -12,7 +12,9 @@ game: hellpoint: #Game & {
     description: """
         Hellpoint is an Action RPG soaked in the intoxicating dark sci-fi horror atmosphere. Explore Irid Novo, a derelict space station, unravel its secrets and twisted history. Battle gut-wrenching creatures and almighty Cosmic Gods. Should the challenge be too great, play with a friend in local or online coop.
     """
-    developers:			"Cradle Games"
+    developers:	[
+        "Cradle Games"
+    ]
     publisher:			"TinyBuild"
     stadiaReleaseDate:	"2021-02-25"
     genre: [
