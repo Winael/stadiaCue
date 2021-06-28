@@ -12,6 +12,8 @@ purchasedGames: [
 	"assassins_creed_unity",
 	"cake_bash",
 	"crayta",
+	"cyberpunk_2077",
+	"dirt_5",
 	"dragon_quest_xi_echoes_of_an_elusive_age",
 	"far_cry_new_dawn",
 	"far_cry_5",
@@ -19,6 +21,11 @@ purchasedGames: [
 	"judgment",
 	"little_big_workshop",
 	"marvels_avengers",
+	"nba_2K20",
+	"olympic_games_tokyo_2020_the_official_video_game",
+	"one_hand_clapping_early_access",
+	"rage_2",
+	"red_dead_redemption_2",
 	...
 ]
 
@@ -59,6 +66,21 @@ claimedGames: [
 	"lara_croft_and_the_temple_of_osiris",
 	"little_nightmares",
 	"little_nightmares_2",
+	"metro_2033_redux",
+	"metro_exodus",
+	"metro_last_light_redux",
+	"monster_boy_and_the_cursed_kingdom",
+	"monster_jam_steel_titans",
+	"moto_gp_20",
+	"orcs_must_die_3",
+	"outcasters",
+	"pac_man_mega_tunnel_battle",
+	"panzer_dragoon_remake",
+	"pikuniku",
+	"pixeljunk_raiders",
+	"playerunknowns_battlegrounds",
+	"power_rangers_battle_for_the_grid",
+	"reigns",
 	...
 ]
 

@@ -170,7 +170,77 @@ stadiaProGames: {
 	little_nightmares_2: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-02-11"
-	}		
+	}	
+	metro_2033_redux: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-08-01"
+		stadiaProEndDate: "2020-09-30"	
+	}
+	metro_exodus: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-02-01"
+		stadiaProEndDate: "2020-03-31"	
+	}
+	metro_last_light_redux: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-09-01"
+		stadiaProEndDate: "2020-10-31"	
+	}
+	monster_boy_and_the_cursed_kingdom: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-07-01"
+		stadiaProEndDate: "2020-09-30"	
+	}
+	monster_jam_steel_titans: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-12-01"
+		stadiaProEndDate: "2021-02-28"	
+	}
+	moto_gp_20: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-06-01"
+	}
+	orcs_must_die_3: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2020-07-14"
+	}
+	outcasters: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-12-03"
+		stadiaProEndDate: "2021-02-28"	
+	}
+	pac_man_mega_tunnel_battle: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2021-03-01"
+		stadiaProEndDate: "2021-05-31"	
+	}
+	panzer_dragoon_remake: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-06-01"
+		stadiaProEndDate: "2021-01-31"	
+	}
+	pikuniku: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-04-01"
+	}
+	pixeljunk_raiders: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-03-01"
+	}
+	playerunknowns_battlegrounds: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2020-04-28"
+	}
+	power_rangers_battle_for_the_grid: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-06-01"
+		stadiaProEndDate: "2020-11-30"	
+	}
+	reigns: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2021-03-01"
+		stadiaProEndDate: "2021-05-31"	
+	}
 }
 
 

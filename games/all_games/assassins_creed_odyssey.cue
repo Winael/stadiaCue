@@ -5,8 +5,11 @@ package games
 //-------------------------
 
 game: assassins_creed_odyssey: #Game & {
-	uid:                 "8b7e7f7036e5483eaa8745d46248536crcp1"
-	title:               "Assassin's Creed Odyssey"
+	uid:                "8b7e7f7036e5483eaa8745d46248536crcp1"
+	title:              "Assassin's Creed Odyssey"
+	price:				69.99
+	actualPrice:		39.99
+	actualProPrice:		27.99
 	genre: [
 		"Action", 
 		"Adventure"
