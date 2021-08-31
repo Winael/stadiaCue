@@ -33,6 +33,14 @@ game: a_place_for_the_unwilling: #Game & {
 		"Separate volume controls",
 		"dialogue subtitles",
 	]
+	resolution_info: {
+		resolution: "1920x1080 (FHD)"
+		framerates: 60
+		dynamic_range: "SDR"
+	}
+	achievements_info: {
+		achievements: 32
+	}
 	medias: {
 		storeCover:       "https://lh3.googleusercontent.com/Ic1FmaFVSMfQZkioWelG9BKg9Ituj1QZtycMhJdnlKYE4GbpWB7k36pmKK_FaNBUO4fyvd3cJxjlb9z7LhoEuiD7xPYcV4GwueWRRGhxDzJMpJlvWyML7IZOcw=e14-rw-no"
 		storeCoverSquare: "https://lh3.googleusercontent.com/f6fD8CQ9CQyo19gIXv7rmqMTQOcgBSCQjtoFsXLDxwkdeUJpOm3lDi04f2HaBsXD-d6O6cWaX9nVvdfM8WEXEsDP34qcM033BcM1Xuw87Ej1hgsWqJEsnwM98zI=e14-rw-no"

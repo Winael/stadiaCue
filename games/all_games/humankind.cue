@@ -51,7 +51,10 @@ game: humankind: #Game & {
         "difficulty levels"
     ]
     medias: {
-        storeCover:			"https://lh3.googleusercontent.com/XSoxNVoqAa1hiKWtm8FykGig8h5eXVEuyV8GrcOo2KeiH5kXQ-edaKftDOacsLPAD-rjVTVbsQFcxgAbqTCILZixhHQdNVIzyMHe9y39Xqo0HAcL1_G1EMZ-D48=e14-rw-no-s0-d"
-        storeCoverSquare:	"https://lh3.googleusercontent.com/54hket8WKpY8Bi1YydLoA1KwPY0jVJekXDpcWy-eMK6rkyO-vc5Vi_P9i0XdzSco2SljB77AwH3khkODPoi3IHFyuR94M5wPf0PEGEb34TtXm949tnf_--9V11uj=e14-rw-no-s0-d"
+        storeCover:			    "https://lh3.googleusercontent.com/XSoxNVoqAa1hiKWtm8FykGig8h5eXVEuyV8GrcOo2KeiH5kXQ-edaKftDOacsLPAD-rjVTVbsQFcxgAbqTCILZixhHQdNVIzyMHe9y39Xqo0HAcL1_G1EMZ-D48"
+        storeCoverSquare:	    "https://lh3.googleusercontent.com/54hket8WKpY8Bi1YydLoA1KwPY0jVJekXDpcWy-eMK6rkyO-vc5Vi_P9i0XdzSco2SljB77AwH3khkODPoi3IHFyuR94M5wPf0PEGEb34TtXm949tnf_--9V11uj"
+        mainLogoCover:          "https://lh3.googleusercontent.com/tIBp96kTlL41brg-d-AIYUd2W3JfKVKkdLDblCttYTvjq6KCGFAyll86KEhrmOMWX9XLhjzbzEQ2i20ktBvv2FhhFU_VDJm4egi3whOmh5DtdtmEdIquy84XLpFt"
+        mainForegroundCover:    "https://lh3.googleusercontent.com/IYwVRaXTMXpp1FEazHAu9kAEhdS5qTe-j5C2XrJB3xbZTLlccmtjgV7xrzu4Knd2yst5JaP9xBqKiAnM2EHrwGpxTZ-A9WKe-NbwikiAbR-Y1Sl50qSXC4ifiKE"
+        mainBackgroundCover:    "https://lh3.googleusercontent.com/e_9kJM7j_UJlaD5rwyTAGaUoKV4tUcztaLwux_7gCBcw7Y3a6Z4KcZ7_8AjslKV68DkWNA67tuXKc4JBTQtyunuwAByasjFFP3WpDvQSWqVSxkRGOCZmzmTGZA"
     }
 }

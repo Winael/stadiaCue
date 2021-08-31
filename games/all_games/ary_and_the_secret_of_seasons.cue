@@ -42,6 +42,14 @@ game: ary_and_the_secret_of_seasons: #Game & {
 		"difficulty levels",
 		"separate volume controls",
 	]
+	resolution_info: {
+		resolution: "1920x1080 (FHD)"
+		framerates: 60
+		dynamic_range: "SDR"
+	}
+	achievements_info: {
+		achievements: 38
+	}
 	medias: {
 		storeCover: 			"https://lh3.googleusercontent.com/RYwhrYX-nO_4zORHP9Eo50Qn-hifLLQ7Lo29Nw1iorrb6nnoZNsvHx82yVuf5hw13Kody0glziRMBeu9_xLkHIdjZQtlACDxbVHm5L7CZJlmnrO66GtvxWRVyRSB=s1920-rw"
 		storeCoverSquare: 		"https://lh3.googleusercontent.com/pXphXJ3_MF9t5Oaqf9zX9jt8kB_A-UpqtjPRdjioPWPuTiKr6o0gwAJ30cp_LsHqsV8IonZJmt7l5dhts2PQrl5UCjYH8WSNyOdp6jjLya_pOLQ00zvxd5-qZRQ0=s1920-rw"

@@ -27,6 +27,8 @@ import (
 	gameMode: [...]
 	supportedInputs: *#SupportedInput | [...]
 	accessibilityFeatures: [...]
+	#Resolution
+	#Achievements
 	familySharing:  *true | bool
 	#StadiaFeatures
 	#Channels
@@ -81,6 +83,25 @@ import (
 	crowdChoice?:   *false | bool
 	stateShare?:    *false | bool
 	streamConnect?: *false | bool
+}
+
+#Resolution: {
+	resolution_info?: {
+		resolution?: string
+		framerates?: int
+		dynamic_range?: string
+	}
+}
+
+#Achievements: {
+	achievements_info?: {
+		achievements?: int
+		secret_achievements?: int
+		buggy_achievements?: int
+		timed_achievements?: int
+		multiplayer_achievements?: int
+		local_coop_achievements?: int
+	}
 }
 
 #Library: {

@@ -56,6 +56,15 @@ game: assassins_creed_odyssey: #Game & {
 		"difficulty levels",
 		"separate volume controls",
 	]
+	resolution_info: {
+		resolution: "2880x1620 (3K)"
+		framerates: 30
+		dynamic_range: "HDR"
+	}
+	achievements_info: {
+		achievements: 93
+		secret_achievements: 31
+	}
 	medias: {
 		storeCover:          "https://lh3.googleusercontent.com/U7nhorB_5yBKEjDwUAohh51k8hrEKB455ubUDcUcXU1ibVAisK-m750FFXb_QTubjA9XW6Pv68rI-3bC5WOjgCtv4ccZfBlGP4UHtCWtbdnVjZ2kbAcNklrOkqCY=s1920-rw"
 		storeCoverSquare:    "https://lh3.googleusercontent.com/WeOt5Hk-0BirURiBzTFhWMGZpU571UpuKzwoxFLxtl1Nsdot57V-bTPnjSfmM3_LspXsOuvnCRzO-U0cYLaR355CxLp7hhdIP61V5i5JcHBe7iXwOJvsFMP4VGc=s1920-rw"

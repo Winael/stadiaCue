@@ -15,5 +15,7 @@ ubisoftplus: [
 	"far_cry_6",
 	"immortals_fenyx_rising",
 	"monopoly",
+	"riders_republic",
+	"scott_pilgrim_vs_the_world_complete_edition",
 	...
 ]
