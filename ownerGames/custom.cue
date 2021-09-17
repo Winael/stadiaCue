@@ -32,6 +32,7 @@ purchasedGames: [
 	"red_dead_redemption_2",
 	"saints_row_the_third_remastered",
 	"shadow_of_the_tomb_raider_definitive_edition",
+    "starwars_jedi_fallen_order",
 	...
 ]
 
@@ -108,6 +109,7 @@ claimedGames: [
 	"sniper_elite_4",
 	"spitlings",
 	"spongebobsquarepants_battle_for_bikini_bottomrehydrated",
+	"stacks_on_stacks_on_stacks",
 	"valkyria_chronicles_4",
 	...
 ]

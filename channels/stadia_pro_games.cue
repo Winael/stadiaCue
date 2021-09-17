@@ -342,6 +342,11 @@ stadiaProGames: {
 		stadiaProBeginDate: "2021-04-01"
 		stadiaProEndDate: "2021-06-30"				
 	}
+	stacks_on_stacks_on_stacks: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-04-01"
+		stadiaProEndDate: "2020-06-30"				
+	}
 	valkyria_chronicles_4: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-08-01"		
