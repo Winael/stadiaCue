@@ -6,7 +6,7 @@ package games
 
 game: forclosed: #Game & {
     uid:		"80869457fb214724a5058437e86007b6rcp1"
-    title:		"FORECLOSED"
+    title:		"Foreclosed"
     price:		19.99
     pegi:		16
     description: """
@@ -41,11 +41,6 @@ game: forclosed: #Game & {
         "dialogue subtitles",
         "separate volume controls"
     ]
-    resolution_info: {
-    	resolution: 	""
-    	framerates: 	
-    	dynamic_range: ""
-    }
     achievements_info: {
     	achievements: 		    24  
         secret_achievements:    24  	

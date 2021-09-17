@@ -49,3 +49,9 @@ game: : #Game & {
     }
 }
 ```
+
+## Eval
+
+```bash
+cue eval -e sortedGameList ./games/all_games/...
+```

@@ -2,7 +2,7 @@ package games
 
 import (
 	"list"
-	"strings"
+	// "strings"
 	channels "stadiacue.io/stadiaCue/channels"
 	ownerGames "stadiacue.io/stadiaCue/ownerGames"
 )
@@ -86,21 +86,21 @@ import (
 }
 
 #Resolution: {
-	resolution_info?: {
-		resolution?: string
-		framerates?: int
-		dynamic_range?: string
+	resolution_info: {
+		resolution: *"NC" | string
+		framerates: *"NC" | int
+		dynamic_range: *"NC" | string
 	}
 }
 
 #Achievements: {
-	achievements_info?: {
-		achievements?: int
-		secret_achievements?: int
-		buggy_achievements?: int
-		timed_achievements?: int
-		multiplayer_achievements?: int
-		local_coop_achievements?: int
+	achievements_info: {
+		achievements: *0 | int
+		secret_achievements: *0 | int
+		buggy_achievements: *0 | int
+		timed_achievements: *0 | int
+		multiplayer_achievements: *0 | int
+		local_coop_achievements: *0 | int
 	}
 }
 
@@ -161,7 +161,8 @@ sortedGameList: list.Sort(
 )
 
 gameInfos: [
-	for Game in game {
-		"\(Game.title)  \t\(strings.Join(Game.genre, ","))  \t\(Game.pegi)"
+	for Game in sortedGameList {
+		"\(Game)"
+		// "\(Game.title)  \t\(strings.Join(Game.genre, ","))  \t\(Game.pegi)"
 	},
 ]

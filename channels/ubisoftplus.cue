@@ -5,6 +5,7 @@ package channels
 //---------
 
 ubisoftplus: [
+	"assassins_creed_black_flag",
 	"assassins_creed_odyssey",
 	"assassins_creed_origins",
 	"assassins_creed_syndicate",

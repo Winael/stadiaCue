@@ -6,7 +6,7 @@ package games
 
 game: fifa_22: #Game & {
     uid:		"d45d390acba5479db7c47170b09d517drcp1"
-    title:		"FIFA 22"
+    title:		"Fifa 22"
     price:		69.99
     pegi:		18
     description: """

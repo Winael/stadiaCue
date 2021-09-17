@@ -1,6 +1,10 @@
 package channels
 
 stadiaProGames: {
+	ark_survival_evolved: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-09-01"		
+	}
 	ary_and_the_secret_of_seasons: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2021-01-01"
@@ -20,8 +24,9 @@ stadiaProGames: {
 		stadiaProEndDate: "2020-12-31"
 	}
 	chronos_before_the_ashes: {
-		stadiaProActive: true
+		stadiaProActive: false
 		stadiaProBeginDate: "2021-06-01"
+		stadiaProEndDate: "2021-08-31"
 	}
 	crayta: {
 		stadiaProActive: true
@@ -30,6 +35,10 @@ stadiaProGames: {
 	cthulhu_saves_christmas: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2020-12-22"
+	}
+	darksiders_2_deathinitive_edition: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-09-01"		
 	}
 	dead_by_daylight: {
 		stadiaProActive: false
@@ -92,8 +101,9 @@ stadiaProGames: {
 		stadiaProBeginDate: "2021-08-02"		
 	}
 	gunsport: {
-		stadiaProActive: true
+		stadiaProActive: false
 		stadiaProBeginDate: "2020-09-01"
+		stadiaProEndDate: "2021-08-31"
 	}
 	gylt: {
 		stadiaProActive: false
@@ -179,14 +189,19 @@ stadiaProGames: {
 		stadiaProBeginDate: "2020-10-01"
 		stadiaProEndDate: "2020-12-31"	
 	}
+	legend_of_keepers_career_of_a_dungeon_manager: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-09-01"
+	}
 	little_nightmares: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2020-06-01"
 		stadiaProEndDate: "2020-11-30"	
 	}	
 	little_nightmares_2: {
-		stadiaProActive: true
+		stadiaProActive: false
 		stadiaProBeginDate: "2021-02-11"
+		stadiaProEndDate: "2021-08-12"
 	}	
 	metro_2033_redux: {
 		stadiaProActive: false
@@ -240,6 +255,14 @@ stadiaProGames: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2020-06-01"
 		stadiaProEndDate: "2021-01-31"	
+	}
+	paw_patrol_mighty_pups_save_adventure_bay: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-08-13"
+	}
+	pga_tour_2k21: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-09-07"
 	}
 	pikuniku: {
 		stadiaProActive: false
@@ -299,11 +322,30 @@ stadiaProGames: {
 		stadiaProBeginDate: "2020-12-01"
 		stadiaProEndDate: "2021-02-28"				
 	}
+	serious_sam_collection: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-04-01"
+		stadiaProEndDate: "2021-06-30"				
+	}
+	sniper_elite_4: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-11-01"
+		stadiaProEndDate: "2021-01-31"				
+	}
+	spitlings: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-04-01"
+		stadiaProEndDate: "2020-06-30"				
+	}
+	spongebobsquarepants_battle_for_bikini_bottomrehydrated: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2021-04-01"
+		stadiaProEndDate: "2021-06-30"				
+	}
 	valkyria_chronicles_4: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-08-01"		
 	}
-	
 }
 
 

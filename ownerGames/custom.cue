@@ -5,6 +5,7 @@ import (
 )
 
 purchasedGames: [
+	"assassins_creed_black_flag",
 	"assassins_creed_odyssey",
 	"assassins_creed_origins",
 	"assassins_creed_unity",
@@ -18,8 +19,10 @@ purchasedGames: [
 	"final_fantasy_15",
 	"humankind",
 	"judgment",
+	"life_is_strange_true_colors",
 	"little_big_workshop",
 	"marvels_avengers",
+	"mereks_market",
 	"mortal_kombat_11",
 	"nba_2K20",
 	"olympic_games_tokyo_2020_the_official_video_game",
@@ -28,16 +31,19 @@ purchasedGames: [
 	"rage_2",
 	"red_dead_redemption_2",
 	"saints_row_the_third_remastered",
+	"shadow_of_the_tomb_raider_definitive_edition",
 	...
 ]
 
 claimedGames: [
 	"ary_and_the_secret_of_seasons",
+	"ark_survival_evolved",
 	"avicii_invector",
 	"blue_fire",
 	"celeste",
 	"crayta",
 	"cthulhu_saves_christmas",
+	"darksiders_2_deathinitive_edition",
 	"dead_by_daylight",
 	"destiny_2",
 	"el_hijo_a_wild_west_tale",
@@ -70,6 +76,7 @@ claimedGames: [
 	"kona",
 	"lara_croft_and_the_guardian_of_light",
 	"lara_croft_and_the_temple_of_osiris",
+	"legend_of_keepers_career_of_a_dungeon_manager",
 	"little_nightmares",
 	"little_nightmares_2",
 	"metro_2033_redux",
@@ -83,6 +90,8 @@ claimedGames: [
 	"outcasters",
 	"pac_man_mega_tunnel_battle",
 	"panzer_dragoon_remake",
+	"paw_patrol_mighty_pups_save_adventure_bay",
+	"pga_tour_2k21",
 	"pikuniku",
 	"pixeljunk_raiders",
 	"playerunknowns_battlegrounds",
@@ -95,13 +104,15 @@ claimedGames: [
 	"rock_of_ages_3_make_and_break",
 	"samurai_shodown_standard_version",
 	"secret_neighbor",
+	"serious_sam_collection",
+	"sniper_elite_4",
+	"spitlings",
+	"spongebobsquarepants_battle_for_bikini_bottomrehydrated",
 	"valkyria_chronicles_4",
 	...
 ]
 
-preOrderedGames: [
-	"life_is_strange_true_colors",
-]
+preOrderedGames: []
 
 stadiaProEnabled: true
 ubisoftplusEnabled: true

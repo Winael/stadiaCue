@@ -24,13 +24,13 @@ game: farming_simulator_22: #Game & {
         ""
     ]
     gameMode: [
-        "Single Player"
-        "> 1 player Online Multiplayer"
+        "Single Player",
+        "> 1 player Online Multiplayer",
         "> 1 player Cross-platform Multiplayer"
     ]
     accessibilityFeatures: [
-        "Button remapping"
-        "separate volume controls"
+        "Button remapping",
+        "separate volume controls",
         "training mode"
     ]
     medias: {
