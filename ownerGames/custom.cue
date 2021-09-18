@@ -110,6 +110,17 @@ claimedGames: [
 	"spitlings",
 	"spongebobsquarepants_battle_for_bikini_bottomrehydrated",
 	"stacks_on_stacks_on_stacks",
+	"steamworld_dig",
+	"steamworld_dig_2",
+	"steamworld_heist",
+	"steamworld_quest_hand_of_gilgamesh",
+	"strange_brigade",
+	"street_power_football",
+	"submerged_hidden_depths",
+	"sundered_eldritch_edition",
+	"super_bomberman_r_online",
+	"superhot",
+	"superhot_mind_control_delete",
 	"valkyria_chronicles_4",
 	...
 ]

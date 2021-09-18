@@ -347,6 +347,60 @@ stadiaProGames: {
 		stadiaProBeginDate: "2020-04-01"
 		stadiaProEndDate: "2020-06-30"				
 	}
+	steamworld_dig: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-07-01"
+		stadiaProEndDate: "2021-06-30"				
+	}
+	steamworld_dig_2: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-03-01"
+		stadiaProEndDate: "2021-03-31"				
+	}
+	steamworld_heist: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-05-01"
+		stadiaProEndDate: "2021-04-30"				
+	}
+	steamworld_quest_hand_of_gilgamesh: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-03-01"
+		stadiaProEndDate: "2021-03-31"				
+	}
+	strange_brigade: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-08-01"
+		stadiaProEndDate: "2020-10-31"				
+	}
+	street_power_football: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-07-01"
+	}
+	submerged_hidden_depths: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-12-03"
+		stadiaProEndDate: "2021-06-03"
+	}
+	sundered_eldritch_edition: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-11-01"
+		stadiaProEndDate: "2021-01-26"
+	}
+	super_bomberman_r_online: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-09-01"
+		stadiaProEndDate: "2020-11-30"
+	}
+	superhot: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-06-01"
+		stadiaProEndDate: "2020-11-30"
+	}
+	superhot_mind_control_delete: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-10-01"
+		stadiaProEndDate: "2021-03-31"
+	}
 	valkyria_chronicles_4: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-08-01"		
