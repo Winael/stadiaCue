@@ -16,7 +16,10 @@ ubisoftplus: [
 	"far_cry_6",
 	"immortals_fenyx_rising",
 	"monopoly",
+	"rainbow_six_extraction",
 	"riders_republic",
 	"scott_pilgrim_vs_the_world_complete_edition",
+	"the_crew_2",
+	"the_division_2",
 	...
 ]

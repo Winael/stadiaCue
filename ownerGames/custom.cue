@@ -33,6 +33,8 @@ purchasedGames: [
 	"saints_row_the_third_remastered",
 	"shadow_of_the_tomb_raider_definitive_edition",
     "starwars_jedi_fallen_order",
+	"terraria",
+	"the_crew_2",
 	...
 ]
 
@@ -121,6 +123,11 @@ claimedGames: [
 	"super_bomberman_r_online",
 	"superhot",
 	"superhot_mind_control_delete",
+	"terraria",
+	"the_darkside_detective",
+	"the_elder_scrolls_online",
+	"the_gardens_between",
+	"the_legend_of_heroes_trails_of_cold_steel_3",
 	"valkyria_chronicles_4",
 	...
 ]

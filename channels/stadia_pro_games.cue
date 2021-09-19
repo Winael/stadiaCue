@@ -193,6 +193,10 @@ stadiaProGames: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-09-01"
 	}
+	little_big_workshop: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2020-09-01"
+	}	
 	little_nightmares: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2020-06-01"
@@ -400,6 +404,28 @@ stadiaProGames: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2020-10-01"
 		stadiaProEndDate: "2021-03-31"
+	}
+	terraria: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-07-01"
+	}
+	the_darkside_detective: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-07-01"
+	}
+	the_elder_scrolls_online: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-06-16"
+		stadiaProEndDate: "2020-07-15"
+	}
+	the_gardens_between: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-11-01"
+		stadiaProEndDate: "2021-01-31"
+	}
+	the_legend_of_heroes_trails_of_cold_steel_3: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-06-01"
 	}
 	valkyria_chronicles_4: {
 		stadiaProActive: true
