@@ -155,6 +155,8 @@ gameList: [
 	},
 ]
 
+nb_gameList: len(gameList)
+
 sortedGameList: list.Sort(
 	gameList,
 	list.Ascending

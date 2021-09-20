@@ -427,6 +427,25 @@ stadiaProGames: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-06-01"
 	}
+	the_turing_test: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-05-01"
+		stadiaProEndDate: "2020-09-30"		
+	}
+	thumper: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-01-01"
+		stadiaProEndDate: "2020-04-30"		
+	}
+	tomb_raider_definitive_edition: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2019-12-01"
+		stadiaProEndDate: "2019-12-31"		
+	}	
+	trine_4_the_nightmare_prince: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-05-01"
+	}	
 	valkyria_chronicles_4: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-08-01"		

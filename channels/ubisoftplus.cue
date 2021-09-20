@@ -21,5 +21,12 @@ ubisoftplus: [
 	"scott_pilgrim_vs_the_world_complete_edition",
 	"the_crew_2",
 	"the_division_2",
+	"tom_clancys_ghost_recon_breakpoint",
+	"tom_clancys_ghost_recon_wildlands",
+	"tom_clancys_rainbow_six_siege",
+	"trials_rising",
+	"uno",
 	...
 ]
+
+nb_ubisoftplus: len(ubisoftplus)

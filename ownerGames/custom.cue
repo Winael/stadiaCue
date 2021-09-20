@@ -128,6 +128,9 @@ claimedGames: [
 	"the_elder_scrolls_online",
 	"the_gardens_between",
 	"the_legend_of_heroes_trails_of_cold_steel_3",
+	"the_turing_test",
+	"tomb_raider_definitive_edition",
+	"trine_4_the_nightmare_prince",
 	"valkyria_chronicles_4",
 	...
 ]
@@ -136,6 +139,10 @@ preOrderedGames: []
 
 stadiaProEnabled: true
 ubisoftplusEnabled: true
+
+nb_purchasedGames: len(purchasedGames)
+nb_claimedGames: len(claimedGames)
+nb_preOrderedGames: len(preOrderedGames)
 
 // ownLibrary: [
 // 	for game in purchasedGames {game},
