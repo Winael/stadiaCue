@@ -35,7 +35,7 @@ game: the_crew_2: #Game & {
         "Kanuri",
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-8 players Online Multiplayer",
         "2-4 players Online Co-op",

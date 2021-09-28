@@ -38,7 +38,7 @@ game: spongebobsquarepants_battle_for_bikini_bottomrehydrated: #Game & {
         "Hindi",
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2 players Local Multiplayer",
         "2 players Online Multiplayer"

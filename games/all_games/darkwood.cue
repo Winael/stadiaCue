@@ -34,7 +34,7 @@ game: darkwood: #Game & {
         "Hungarian",
         "Polish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

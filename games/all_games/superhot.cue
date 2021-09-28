@@ -39,7 +39,7 @@ game: superhot: #Game & {
         "Chinese (Simplified)",
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

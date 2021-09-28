@@ -27,7 +27,7 @@ game: the_darkside_detective: #Game & {
         "Spanish",
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

@@ -34,7 +34,7 @@ game: the_gardens_between: #Game & {
         "Portuguese",
         "Dutch"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

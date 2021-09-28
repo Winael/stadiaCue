@@ -37,7 +37,7 @@ game: assassins_creed_origins: #Game & {
         "Chinese (Simplified)",
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

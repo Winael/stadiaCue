@@ -33,7 +33,7 @@ game: journey_to_the_savage_planet: #Game & {
         "Chinese (Simplified, Taiwan)", 
         "Korean"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Online Co-op"
     ]

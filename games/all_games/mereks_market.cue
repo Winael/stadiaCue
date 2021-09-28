@@ -29,7 +29,7 @@ game: mereks_market: #Game & {
         "German",
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-4 players Local Multiplayer",
         "2-4 players Local Co-op"

@@ -40,7 +40,7 @@ game: little_nightmares_2: #Game & {
         "Chinese (Simplified)", 
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

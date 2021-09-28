@@ -45,7 +45,7 @@ game: far_cry_new_dawn: #Game & {
         "Arabic", 
         "Polish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Online Co-op"
     ]

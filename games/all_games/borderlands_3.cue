@@ -31,7 +31,7 @@ game: borderlands_3: #Game & {
 		"German",
 		"Spanish",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player",
 		"2-4 players Online Multiplayer",
 		"2-4 players Online Co-op",

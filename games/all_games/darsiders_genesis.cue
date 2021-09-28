@@ -35,7 +35,7 @@ game: darksiders_genesis: #Game & {
 		"Polish",
 		"Portuguese",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player",
 		"1-2 players Local Multiplayer",
 		"1-2 players Online Multiplayer",

@@ -28,7 +28,7 @@ game: street_of_rage_4: #Game & {
         "French",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-4 players Local Multiplayer",
         "2 players Online Multiplayer",

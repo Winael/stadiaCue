@@ -29,7 +29,7 @@ game: f1_2020: #Game & {
         "Italian", 
         "Dutch"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Multiplayer", 
         "2-22 players Online Multiplayer", 

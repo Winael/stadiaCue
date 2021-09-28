@@ -31,7 +31,7 @@ game: phoenix_point: #Game & {
         "Polish", 
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

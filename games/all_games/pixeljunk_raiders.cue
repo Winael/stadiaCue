@@ -37,7 +37,7 @@ game: pixeljunk_raiders: #Game & {
         "Romanian", 
         "Slovak"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

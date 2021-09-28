@@ -35,7 +35,7 @@ game: monster_boy_and_the_cursed_kingdom: #Game & {
         "Korean"
 
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

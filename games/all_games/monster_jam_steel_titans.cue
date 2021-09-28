@@ -34,7 +34,7 @@ game: monster_jam_steel_titans: #Game & {
         "Polish", 
         "Japanese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Multiplayer"
     ]

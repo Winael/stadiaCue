@@ -30,7 +30,7 @@ game: steamworld_dig_2: #Game & {
         "Spanish",
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

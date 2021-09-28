@@ -33,7 +33,7 @@ game: reigns: #Game & {
         "Spanish", 
         "Portuguese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

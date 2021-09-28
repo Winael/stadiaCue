@@ -30,7 +30,7 @@ game: secret_neighbor: #Game & {
         "Portuguese (Portugal)", 
         "Polish (Poland)"
     ]
-    gameMode: [
+    gameModes: [
         "2-6 players Online Multiplayer", 
         "2-4 players Competitive"
     ]

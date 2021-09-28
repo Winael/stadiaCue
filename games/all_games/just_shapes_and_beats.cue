@@ -32,7 +32,7 @@ game: just_shapes_and_beats: #Game & {
         "Italian", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-4 players Local Multiplayer", 
         "2-4 players Local Co-op", 

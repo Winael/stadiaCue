@@ -29,7 +29,7 @@ game: cris_tales: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

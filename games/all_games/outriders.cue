@@ -41,7 +41,7 @@ game: outriders: #Game & {
         "Portuguese (Brazil)", 
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-3 players Online Multiplayer", 
         "> 1 player Cross-platform Multiplayer"

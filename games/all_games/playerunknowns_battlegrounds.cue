@@ -28,7 +28,7 @@ game: playerunknowns_battlegrounds: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "2-100 players Online Multiplayer", 
         "2-100 players Competitive", 
         "2-100 players Cross-platform Multiplayer"

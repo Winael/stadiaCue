@@ -35,7 +35,7 @@ game: uno: #Game & {
         "Chinese (Traditional)",
         "Chinese (Simplified)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2 players Local Multiplayer",
         "2-4 players Online Multiplayer",

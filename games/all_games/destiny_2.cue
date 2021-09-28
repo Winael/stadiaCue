@@ -49,7 +49,7 @@ game: destiny_2: #Game & {
 		"Chinese (Simplified)",
 		"Chinese (Traditional)",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player",
 		"2-16 players Online Multiplayer",
 		"2-12 players Competitive",

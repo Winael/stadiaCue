@@ -31,7 +31,7 @@ game: octopath_traveler: #Game & {
         "Chinese (Traditional)", 
         "Korean"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

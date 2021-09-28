@@ -30,7 +30,7 @@ game: steamworld_quest_hand_of_gilgamesh: #Game & {
         "Spanish",
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

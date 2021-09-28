@@ -38,7 +38,7 @@ game: tom_clancys_ghost_recon_wildlands: #Game & {
         "Chinese (Simplified)",
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-8 players Online Multiplayer",
         "2-4 players Online Co-op",

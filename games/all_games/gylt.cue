@@ -27,7 +27,7 @@ game: gylt: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

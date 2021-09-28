@@ -29,7 +29,7 @@ game: red_dead_redemption_2: #Game & {
         "Italian", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-32 players Online Multiplayer"
     ]

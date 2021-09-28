@@ -38,7 +38,7 @@ game: humankind: #Game & {
     languages: [
         "English"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-10 players Online Multiplayer", 
         "2-10 players Cross-platform Multiplayer"

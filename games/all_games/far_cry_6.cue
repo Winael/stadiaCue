@@ -35,7 +35,7 @@ game: far_cry_6: #Game & {
     languages: [
         ""
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-2 players Online Co-op"
     ]

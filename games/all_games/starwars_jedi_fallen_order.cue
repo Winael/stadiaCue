@@ -36,7 +36,7 @@ game: starwars_jedi_fallen_order: #Game & {
         "Chinese (China)",
         "Chinese (Taiwan)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

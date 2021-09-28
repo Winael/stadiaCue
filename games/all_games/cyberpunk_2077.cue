@@ -44,7 +44,7 @@ game: cyberpunk_2077: #Game & {
 		"Thai",
 		"Turkish",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player"
 	]
 	accessibilityFeatures: [

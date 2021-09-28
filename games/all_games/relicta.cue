@@ -35,7 +35,7 @@ game: relicta: #Game & {
         "Chinese (Simplified)", 
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

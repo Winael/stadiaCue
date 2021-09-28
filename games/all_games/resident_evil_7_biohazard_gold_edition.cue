@@ -36,7 +36,7 @@ game: resident_evil_7_biohazard_gold_edition: #Game & {
         "Chinese (Simplified)", 
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

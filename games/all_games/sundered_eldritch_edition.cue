@@ -39,7 +39,7 @@ game: sundered_eldritch_edition: #Game & {
         "Japanese",
         "Korean"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "1-4 players Local Co-op"
     ]

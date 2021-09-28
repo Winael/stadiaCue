@@ -33,7 +33,7 @@ game: ary_and_the_secret_of_seasons: #Game & {
 		"Spanish",
 		"Dutch",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player"
 	]
 	accessibilityFeatures: [

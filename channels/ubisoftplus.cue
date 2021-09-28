@@ -26,6 +26,9 @@ ubisoftplus: [
 	"tom_clancys_rainbow_six_siege",
 	"trials_rising",
 	"uno",
+	"watch_dogs",
+	"watch_dogs_2",
+	"watch_dogs_legion",
 	...
 ]
 

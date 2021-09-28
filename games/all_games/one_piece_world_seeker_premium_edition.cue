@@ -40,7 +40,7 @@ game: one_piece_world_seeker_premium_edition: #Game & {
         "Chinese (China)", 
         "Chinese (Taiwan)"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

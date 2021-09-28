@@ -33,7 +33,7 @@ game: rock_of_ages_3_make_and_break: #Game & {
         "Korean", 
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player", 
         "2-4 players Online Multiplayer", 
         "2-4 players Competitive"

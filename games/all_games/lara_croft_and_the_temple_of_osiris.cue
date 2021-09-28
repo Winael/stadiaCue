@@ -30,7 +30,7 @@ game: lara_croft_and_the_temple_of_osiris: #Game & {
         "Japanese", 
         "Portuguese (Brazil)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-4 players Online Multiplayer", 
         "2-4 players Online Co-op", 

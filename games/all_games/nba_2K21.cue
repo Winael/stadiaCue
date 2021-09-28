@@ -33,7 +33,7 @@ game: nba_2k21: #Game & {
         "Chinese (Simplified)", 
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-4 players Local Multiplayer", 
         "2-10 players Online Multiplayer", 

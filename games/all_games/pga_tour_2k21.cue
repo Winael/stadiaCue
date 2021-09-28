@@ -34,7 +34,7 @@ game: pga_tour_2k21: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-4 players Local Multiplayer", 
         "2-20 players Online Multiplayer", 

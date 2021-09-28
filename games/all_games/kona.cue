@@ -26,7 +26,7 @@ game: kona: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

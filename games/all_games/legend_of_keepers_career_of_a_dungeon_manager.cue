@@ -29,7 +29,7 @@ game: legend_of_keepers_career_of_a_dungeon_manager: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

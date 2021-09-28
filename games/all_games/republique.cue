@@ -33,7 +33,7 @@ game: republique: #Game & {
         "Portuguese", 
         "Japanese"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

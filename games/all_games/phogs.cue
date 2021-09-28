@@ -32,7 +32,7 @@ game: phogs: #Game & {
         "Chinese (Simplified)", 
         "Japanese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Co-op", 
         "2 players Online Co-op"

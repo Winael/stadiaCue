@@ -28,7 +28,7 @@ game: moonlighter: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

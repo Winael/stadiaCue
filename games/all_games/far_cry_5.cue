@@ -46,7 +46,7 @@ game: far_cry_5: #Game & {
         "Chinese (Traditional)", 
         "Chinese (Simplified)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Online Co-op", 
         "1-12 players Competitive"

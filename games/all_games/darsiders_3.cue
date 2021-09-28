@@ -39,7 +39,7 @@ game: darksiders_3: #Game & {
         "Korean",
         "Persian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

@@ -34,7 +34,7 @@ game: madden_nfl_21: #Game & {
     languages: [
         "English"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-4 players Local Multiplayer", 
         "2-6 players Online Multiplayer", 

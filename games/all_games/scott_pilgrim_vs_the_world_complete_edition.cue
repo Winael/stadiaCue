@@ -28,7 +28,7 @@ game: scott_pilgrim_vs_the_world_complete_edition: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-4 players Local Multiplayer", 
         "2-4 players Online Multiplayer", 

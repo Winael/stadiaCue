@@ -38,7 +38,7 @@ game: bloodstained_ritual_of_the_night: #Game & {
         "Chinese", 
         "Japanese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

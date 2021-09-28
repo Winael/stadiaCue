@@ -33,7 +33,7 @@ game: spiritfarer: #Game & {
         "Korean",
         "Japanese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "1-2 players Local Co-op"
     ]

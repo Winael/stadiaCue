@@ -25,7 +25,7 @@ game: the_legend_of_heroes_trails_of_cold_steel_3: #Game & {
         "English (United States)",
         "French (France)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

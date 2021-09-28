@@ -41,7 +41,7 @@ game: control_ultimate_edition: #Game & {
         "Chinese (China)", 
         "Chinese (Taiwan)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

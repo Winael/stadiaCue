@@ -28,7 +28,7 @@ game: a_place_for_the_unwilling: #Game & {
 		"Spanish",
 		"English",
 	]
-	gameMode: ["Single Player"]
+	gameModes: ["Single Player"]
 	accessibilityFeatures: [
 		"Separate volume controls",
 		"dialogue subtitles",

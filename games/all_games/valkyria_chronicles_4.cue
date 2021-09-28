@@ -28,7 +28,7 @@ game: valkyria_chronicles_4: #Game & {
         "Italian", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

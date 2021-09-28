@@ -40,7 +40,7 @@ game: madden_nfl_22: #Game & {
     languages: [
     	""
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player", 
         "2-4 players Local Multiplayer", 
         "2-6 players Online Multiplayer", 

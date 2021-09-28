@@ -31,7 +31,7 @@ game: shadow_of_the_tomb_raider_definitive_edition: #Game & {
         "German",
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2 players Online Co-op"
     ]

@@ -34,7 +34,7 @@ game:dragon_ball_xenoverse_2: #Game & {
         "Portuguese (Brazil)", 
         "Japanese (Japan)"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player", 
         "2 players Local Multiplayer", 
         "2-6 players Online Multiplayer", 

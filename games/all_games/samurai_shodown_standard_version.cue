@@ -33,7 +33,7 @@ game: samurai_shodown_standard_version: #Game & {
         "Portuguese", 
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-10 players Online Multiplayer", 
         "2 players Local Multiplayer"

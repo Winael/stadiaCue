@@ -48,7 +48,7 @@ game: fifa_21: #Game & {
         "Chinese (Hong Kong)", 
         "Arabic (Saudi Arabia)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-4 players Local Multiplayer", 
         "2-22 players Online Multiplayer", 

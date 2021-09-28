@@ -37,7 +37,7 @@ game: assassins_creed_syndicate: #Game & {
         "Chinese (Simplified)",
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

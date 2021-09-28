@@ -26,7 +26,7 @@ game: grid: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-40 players Online Multiplayer"
     ]

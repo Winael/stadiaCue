@@ -25,7 +25,7 @@ game: killer_queen_black: #Game & {
     languages: [
         "English"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-8 players Local Multiplayer", 
         "1-8 players Online Multiplayer", 

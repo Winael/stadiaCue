@@ -28,7 +28,7 @@ game: hitman_2: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

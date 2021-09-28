@@ -34,7 +34,7 @@ game: saints_row_the_third_remastered: #Game & {
         "Dutch (Netherlands)", 
         "Japanese (Japan)"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player", 
         "2 players Online Multiplayer", 
         "2 players Online Co-op"

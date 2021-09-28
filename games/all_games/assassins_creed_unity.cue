@@ -37,7 +37,7 @@ game: assassins_creed_unity: #Game & {
 		"Dutch",
 		"Arabic",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player",
 		"2-4 players Online Co-op",
 	]

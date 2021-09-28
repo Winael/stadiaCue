@@ -33,7 +33,7 @@ game: forclosed: #Game & {
         "Chinese",
         "Korean"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

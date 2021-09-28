@@ -34,7 +34,7 @@ game: dead_by_daylight: #Game & {
 		"German",
 		"Spanish",
 	]
-	gameMode: [
+	gameModes: [
 		"2-5 players Online Multiplayer",
 		"2-5 players Competitive",
 		"2-5 players Cross-platform Multiplayer",

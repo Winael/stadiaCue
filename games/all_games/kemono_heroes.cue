@@ -28,7 +28,7 @@ game: kemono_heroes: #Game & {
         "Korean", 
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-4 players Local Multiplayer", 
         "1-4 players Local Co-op"

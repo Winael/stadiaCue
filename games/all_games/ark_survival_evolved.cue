@@ -32,7 +32,7 @@ game: ark_survival_evolved: #Game & {
         "French",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "> 1 player Online Multiplayer",
         "> 1 player Online Co-op",

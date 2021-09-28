@@ -33,7 +33,7 @@ game: katamari_damacy_reroll: #Game & {
         "Japanese",
         "Korean"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2 players Local Multiplayer",
         "2 players Competitive",

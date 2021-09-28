@@ -27,7 +27,7 @@ game: pac_man_mega_tunnel_battle: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "1-64 players Online Multiplayer", 
         "1-64 players Competitive"
     ]

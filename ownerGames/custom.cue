@@ -35,6 +35,7 @@ purchasedGames: [
     "starwars_jedi_fallen_order",
 	"terraria",
 	"the_crew_2",
+	"watch_dogs_legion",
 	...
 ]
 

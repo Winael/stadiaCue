@@ -37,7 +37,7 @@ game: figment: #Game & {
         "Chinese", 
         "Turkish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

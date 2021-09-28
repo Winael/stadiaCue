@@ -32,7 +32,7 @@ game: metro_2033_redux: #Game & {
         "Russian (Russia)", 
         "Ukrainian (Ukraine)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

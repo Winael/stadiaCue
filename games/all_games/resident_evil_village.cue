@@ -47,7 +47,7 @@ game: resident_evil_village: #Game & {
         "Chinese (Simplified)", 
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

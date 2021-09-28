@@ -37,7 +37,7 @@ game: just_dance_2020: #Game & {
         "Swedish", 
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-6 players Local Multiplayer", 
         "1-99 players Online Multiplayer", 

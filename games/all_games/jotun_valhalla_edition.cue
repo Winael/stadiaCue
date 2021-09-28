@@ -32,7 +32,7 @@ game: jotun_valhalla_edition: #Game & {
         "Polish", 
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

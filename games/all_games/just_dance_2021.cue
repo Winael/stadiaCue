@@ -39,7 +39,7 @@ game: just_dance_2021: #Game & {
         "Japanese", 
         "Korean (South Korea)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-6 players Local Multiplayer", 
         "> 1 player Online Multiplayer", 

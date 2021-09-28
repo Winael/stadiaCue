@@ -30,7 +30,7 @@ game: shantae_half_genie_hero_ultimate_edition: #Game & {
         "French",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

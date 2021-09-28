@@ -27,7 +27,7 @@ game: power_rangers_battle_for_the_grid: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-2 players Local Multiplayer", 
         "1-2 players Online Multiplayer", 

@@ -32,7 +32,7 @@ game: disco_elysium_the_final_cut: #Game & {
         "Chinese (China)", 
         "Chinese (Taiwan)"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player"
     ]
 	accessibilityFeatures: [

@@ -28,7 +28,7 @@ game: : #Game & {
     languages: [
         ""
     ]
-    gameMode: [
+    gameModes: [
         ""
     ]
     accessibilityFeatures: [

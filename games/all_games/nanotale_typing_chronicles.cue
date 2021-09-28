@@ -28,7 +28,7 @@ game: nanotale_typing_chronicles: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

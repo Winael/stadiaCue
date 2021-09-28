@@ -28,7 +28,7 @@ game: lost_words_beyond_the_page: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

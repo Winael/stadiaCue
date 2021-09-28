@@ -30,7 +30,7 @@ game: riders_republic: #Game & {
     languages: [
     	""
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player", 
         "2-64 players Online Multiplayer", 
         "2-64 players Competitive", 

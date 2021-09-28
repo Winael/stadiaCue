@@ -35,7 +35,7 @@ game: it_came_from_space_and_ate_our_brains: #Game & {
         "Dutch", 
         "Polish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-4 players Local Multiplayer", 
         "1-4 players Local Co-op", 

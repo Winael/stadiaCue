@@ -28,7 +28,7 @@ game: dirt_5: #Game & {
         "French", 
         "Italian"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player", 
         "2-12 players Online Multiplayer", 
         "1-4 players Split-screen"

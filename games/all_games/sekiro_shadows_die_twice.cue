@@ -40,7 +40,7 @@ game: sekiro_shadows_die_twice: #Game & {
         "Chinese (Simplified)",
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

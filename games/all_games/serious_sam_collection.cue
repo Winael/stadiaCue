@@ -28,7 +28,7 @@ game: serious_sam_collection: #Game & {
         "German",
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-16 players Online Multiplayer",
         "2-16 players Online Co-op",

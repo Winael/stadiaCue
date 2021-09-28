@@ -30,7 +30,7 @@ game: rise_of_the_tomb_raider_20_year_celebration: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player", 
         "2 players Online Co-op"
     ]

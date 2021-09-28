@@ -23,7 +23,7 @@ game: farming_simulator_22: #Game & {
     languages: [
         ""
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "> 1 player Online Multiplayer",
         "> 1 player Cross-platform Multiplayer"

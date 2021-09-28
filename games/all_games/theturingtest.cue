@@ -30,7 +30,7 @@ game: the_turing_test: #Game & {
         "Korean",
         "Japanese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

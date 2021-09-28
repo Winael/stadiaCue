@@ -41,7 +41,7 @@ game: tom_clancys_rainbow_six_siege: #Game & {
         "Chinese (China)",
         "Chinese (Taiwan)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-10 players Online Multiplayer",
         "2-5 players Online Co-op",

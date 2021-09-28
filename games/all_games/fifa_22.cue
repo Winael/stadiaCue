@@ -29,7 +29,7 @@ game: fifa_22: #Game & {
     languages: [
     	""
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player", 
         "2-4 players Local Multiplayer", 
         "2-22 players Online Multiplayer", 

@@ -33,7 +33,7 @@ game: doom_2016: #Game & {
 		"Portuguese (Brazil)",
 		"Chinese (Traditional)",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player",
 		"2-12 players Online Multiplayer",
 		"2-12 players Competitive",

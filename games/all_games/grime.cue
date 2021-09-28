@@ -35,7 +35,7 @@ game: grime: #Game & {
         "Japanese", 
         "Korean"
     ]
-    gameMode: [
+    gameModes: [
     	"Single Player"
     ]
     accessibilityFeatures: [

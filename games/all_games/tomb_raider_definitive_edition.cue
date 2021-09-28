@@ -31,7 +31,7 @@ game: tomb_raider_definitive_edition: #Game & {
         "German",
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-8 players Online Multiplayer",
         "2-8 players Competitive"

@@ -26,7 +26,7 @@ game: the_elder_scrolls_online: #Game & {
         "German",
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "> 1 player Online Multiplayer",
         "> 1 player Online Co-op",

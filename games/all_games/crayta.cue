@@ -40,7 +40,7 @@ game: crayta: #Game & {
 		"Romanian",
 		"Slovak",
 	]
-	gameMode: [
+	gameModes: [
 		"2-20 players Online Multiplayer",
 		"2-20 players Competitive",
 		"2-20 players Online Co-op",

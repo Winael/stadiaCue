@@ -50,7 +50,7 @@ game: spitlings: #Game & {
         "Vietnamese",
         "Croatian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "> 1 player Local Multiplayer",
         "> 1 player Online Multiplayer",

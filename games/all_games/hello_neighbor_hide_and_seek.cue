@@ -29,7 +29,7 @@ game: hello_neighbor_hide_and_seek: #Game & {
         "Portuguese (Portugal)", 
         "Polish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

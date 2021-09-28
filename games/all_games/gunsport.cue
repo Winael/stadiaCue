@@ -30,7 +30,7 @@ game: gunsport: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Co-op", 
         "2-4 players Local Multiplayer",

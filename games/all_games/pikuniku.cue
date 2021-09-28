@@ -34,7 +34,7 @@ game: pikuniku: #Game & {
         "Chinese (Simplified)", 
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Co-op"
     ]

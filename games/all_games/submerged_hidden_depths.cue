@@ -36,7 +36,7 @@ game: submerged_hidden_depths: #Game & {
         "Russian",
         "Portuguese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

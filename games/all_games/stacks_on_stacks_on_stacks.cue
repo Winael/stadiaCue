@@ -29,7 +29,7 @@ game: stacks_on_stacks_on_stacks: #Game & {
         "German",
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2 players Local Multiplayer",
         "2 players Local Co-op",

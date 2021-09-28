@@ -34,7 +34,7 @@ game: hellpoint: #Game & {
         "Korean (South Korea)", 
         "Chinese (China)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-2 players Local Multiplayer", 
         "2-4 players Online Multiplayer", 

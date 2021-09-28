@@ -34,7 +34,7 @@ game: everspace: #Game & {
         "Korean", 
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

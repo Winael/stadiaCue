@@ -32,7 +32,7 @@ game: metro_last_light_redux: #Game & {
         "Russian (Russia)", 
         "Ukrainian (Ukraine)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

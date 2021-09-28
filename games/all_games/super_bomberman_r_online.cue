@@ -32,7 +32,7 @@ game: super_bomberman_r_online: #Game & {
         "Dutch (Netherlands)",
         "Portuguese (Portugal)"
     ]
-    gameMode: [
+    gameModes: [
         "2-64 players Online Multiplayer",
         "2-64 players Competitive"
     ]

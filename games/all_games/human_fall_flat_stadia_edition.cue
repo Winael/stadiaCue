@@ -37,7 +37,7 @@ game: human_fall_flat_stadia_edition: #Game & {
         "Turkish (Turkey)", 
         "Portuguese (Portugal)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Multiplayer", 
         "2-16 players Online Multiplayer", 

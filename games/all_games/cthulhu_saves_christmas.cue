@@ -22,7 +22,7 @@ game: cthulhu_saves_christmas: #Game & {
 	languages: [
         "English"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player"
     ]
 	accessibilityFeatures: [

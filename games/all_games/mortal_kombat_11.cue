@@ -28,7 +28,7 @@ game: mortal_kombat_11: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Multiplayer", 
         "2-8 players Online Multiplayer", 

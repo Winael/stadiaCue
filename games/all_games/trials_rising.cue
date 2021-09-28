@@ -33,7 +33,7 @@ game: trials_rising: #Game & {
         "Russian",
         "Portuguese (Brazil)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-4 players Local Multiplayer",
         "2-8 players Online Multiplayer",

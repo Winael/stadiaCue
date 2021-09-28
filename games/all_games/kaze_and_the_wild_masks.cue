@@ -44,7 +44,7 @@ game: kaze_and_the_wild_masks: #Game & {
         "Portuguese", 
         "Swedish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

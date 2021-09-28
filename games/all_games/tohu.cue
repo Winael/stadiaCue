@@ -45,7 +45,7 @@ game: tohu: #Game & {
         "Korean",
         "Turkish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

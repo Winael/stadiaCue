@@ -36,7 +36,7 @@ game: serious_sam_4: #Game & {
         "Chinese (Traditional)",
         "Chinese (Simplified)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-4 players Online Co-op"
     ]

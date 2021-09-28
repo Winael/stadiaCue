@@ -41,7 +41,7 @@ game: assassins_creed_valhalla: #Game & {
 		"Chinese (Simplified)",
 		"Arabic",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player",
 	]
 	accessibilityFeatures: [

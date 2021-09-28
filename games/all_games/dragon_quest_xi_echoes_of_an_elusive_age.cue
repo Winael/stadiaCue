@@ -28,7 +28,7 @@ game: dragon_quest_xi_echoes_of_an_elusive_age: #Game & {
         "French (France)", 
         "Italian (Italy)"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player"
     ]
 	accessibilityFeatures: [

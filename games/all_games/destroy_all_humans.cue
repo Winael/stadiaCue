@@ -37,7 +37,7 @@ game: destroy_all_humans: #Game & {
 		"Russian",
 		"Chinese",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player"
 	]
 	accessibilityFeatures: [

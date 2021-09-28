@@ -27,7 +27,7 @@ game: monopoly: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-6 players Local Multiplayer", 
         "2-6 players Online Multiplayer", 

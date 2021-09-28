@@ -43,7 +43,7 @@ game: thumper: #Game & {
         "Swedish (Sweden)",
         "Turkish (Turkey)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

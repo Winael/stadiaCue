@@ -28,7 +28,7 @@ game: shantae_riskys_revenge_directors_cut: #Game & {
         "French",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

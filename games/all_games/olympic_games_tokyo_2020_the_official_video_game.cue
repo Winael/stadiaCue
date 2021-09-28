@@ -36,7 +36,7 @@ game: olympic_games_tokyo_2020_the_official_video_game: #Game & {
         "Portuguese", 
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Multiplayer", 
         "2-8 players Online Multiplayer", 

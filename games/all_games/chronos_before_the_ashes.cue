@@ -35,7 +35,7 @@ game: chronos_before_the_ashes: #Game & {
 		"Chinese",
 		"Korean",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player"
 	]
 	accessibilityFeatures: [

@@ -27,7 +27,7 @@ game: hotline_miami_2_wrong_number: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

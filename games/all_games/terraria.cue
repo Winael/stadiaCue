@@ -34,7 +34,7 @@ game: terraria: #Game & {
         "French",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-16 players Online Multiplayer"
     ]

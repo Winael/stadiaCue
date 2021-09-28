@@ -27,7 +27,7 @@ game: the_division_2: #Game & {
         "German",
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "1-16 players Online Multiplayer",
         "1-8 players Online Co-op",

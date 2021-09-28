@@ -27,7 +27,7 @@ game: enter_the_gungeon: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-2 players Local Multiplayer"
     ]

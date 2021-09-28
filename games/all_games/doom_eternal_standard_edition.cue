@@ -28,7 +28,7 @@ game: doom_eternal_standard_edition: #Game & {
         "German", 
         "Spanish"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player", 
         "2-3 players Online Multiplayer", 
         "2-3 players Competitive"

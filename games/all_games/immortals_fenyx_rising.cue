@@ -39,7 +39,7 @@ game: immortals_fenyx_rising: #Game & {
         "Russian", 
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

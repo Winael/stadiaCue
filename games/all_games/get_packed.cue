@@ -40,7 +40,7 @@ game: get_packed: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-4 players Local Multiplayer", 
         "1-4 players Online Multiplayer", 

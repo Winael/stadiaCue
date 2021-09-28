@@ -30,7 +30,7 @@ game: monster_energy_supercross_the_official_videogame_3: #Game & {
         "Portuguese (Brazil)", 
         "Spanish (Latin America)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "> 2 players Online Multiplayer", 
         "> 2 players Competitive"

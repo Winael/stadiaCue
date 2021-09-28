@@ -29,7 +29,7 @@ game: sniper_elite_4: #Game & {
         "German",
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2-12 players Online Multiplayer",
         "2-4 players Online Co-op"

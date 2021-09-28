@@ -29,7 +29,7 @@ game: moto_gp_20: #Game & {
         "English (United States)", 
         "Portuguese (Brazil)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "> 2 players Online Multiplayer", 
         "> 2 players Competitive"

@@ -28,7 +28,7 @@ game: panzer_dragoon_remake: #Game & {
         "German", 
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

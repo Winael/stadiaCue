@@ -28,7 +28,7 @@ game: hundred_days_winemaking_simulator: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

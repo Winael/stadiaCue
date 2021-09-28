@@ -31,7 +31,7 @@ game: dreamworks_dragons_dawn_of_new_riders: #Game & {
         "Portuguese",
         "Spanish (Latin America)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

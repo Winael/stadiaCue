@@ -24,7 +24,7 @@ game: cosmic_star_heroine: #Game & {
 	languages: [
         "English"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player"
     ]
 	accessibilityFeatures: [

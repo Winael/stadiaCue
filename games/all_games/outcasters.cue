@@ -34,7 +34,7 @@ game: outcasters: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "2-8 players Online Multiplayer", 
         "> 1 player Online Co-op", 
         "2-8 players Competitive"

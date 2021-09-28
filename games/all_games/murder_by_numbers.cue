@@ -25,7 +25,7 @@ game: murder_by_numbers: #Game & {
     languages: [
         "English"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

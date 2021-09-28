@@ -30,7 +30,7 @@ game: judgment: #Game & {
         "Chinese (Taiwan)", 
         "Korean (South Korea)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Multiplayer"
     ]

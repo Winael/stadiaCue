@@ -28,7 +28,7 @@ game: paw_patrol_the_movie_adventure_city_calls: #Game & {
         "French",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "1-2 players Local Multiplayer",
         "1-2 players Local Co-op"

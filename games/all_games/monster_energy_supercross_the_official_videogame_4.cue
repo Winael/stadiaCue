@@ -29,7 +29,7 @@ game: monster_energy_supercross_the_official_videogame_4: #Game & {
         "Italian", 
         "Spanish (Latin America)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "> 1 player Online Multiplayer", 
         "> 1 player Online Co-op", 

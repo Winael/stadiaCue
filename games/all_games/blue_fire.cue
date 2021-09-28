@@ -31,7 +31,7 @@ game: blue_fire: #Game & {
         "Russian", 
         "Portuguese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

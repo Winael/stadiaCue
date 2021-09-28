@@ -29,7 +29,7 @@ game: lara_croft_and_the_guardian_of_light: #Game & {
         "Italian", 
         "Japanese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Online Multiplayer", 
         "2 players Online Co-op", 

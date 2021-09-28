@@ -37,7 +37,7 @@ game: monster_jam_steel_titans_2: #Game & {
         "Polish", 
         "Portuguese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Local Multiplayer", 
         "1-6 players Online Multiplayer", 

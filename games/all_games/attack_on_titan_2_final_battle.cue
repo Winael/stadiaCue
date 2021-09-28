@@ -31,7 +31,7 @@ game: attack_on_titan_2_final_package: #Game & {
 		"Korean",
 		"Chinese",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player",
 		"2-8 players Online Multiplayer",
 		"2-4 players Online Co-op",

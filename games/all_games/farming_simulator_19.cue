@@ -33,7 +33,7 @@ game: farming_simulator_19: #Game & {
         "Romanian (Romania)", 
         "Slovak (Slovakia)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "> 1 player Online Multiplayer", 
         "> 1 player Cross-platform Multiplayer"

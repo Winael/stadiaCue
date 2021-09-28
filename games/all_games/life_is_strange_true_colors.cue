@@ -27,7 +27,7 @@ game: life_is_strange_true_colors: #Game & {
     languages: [
         ""
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

@@ -28,7 +28,7 @@ game: doom_64: #Game & {
         "German", 
         "Spanish"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player"
     ]
 	accessibilityFeatures: [

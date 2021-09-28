@@ -28,7 +28,7 @@ game: rainbow_six_extraction: #Game & {
     languages: [
         ""
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-3 players Online Multiplayer", 
         "2-3 players Online Co-op", 

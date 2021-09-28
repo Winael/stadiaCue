@@ -29,7 +29,7 @@ game: hello_neighbor: #Game & {
         "Portuguese", 
         "Polish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

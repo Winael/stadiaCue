@@ -28,7 +28,7 @@ game: floor_kids: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "> 1 player Local Multiplayer"
     ]

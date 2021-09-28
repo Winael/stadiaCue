@@ -37,7 +37,7 @@ game: trine_4_the_nightmare_prince: #Game & {
         "Polish",
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "1-4 players Local Multiplayer",
         "1-4 players Online Multiplayer",

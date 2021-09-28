@@ -37,7 +37,7 @@ game: metro_exodus: #Game & {
         "Chinese (China)", 
         "Chinese (Taiwan)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

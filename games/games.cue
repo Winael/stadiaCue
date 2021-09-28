@@ -24,7 +24,7 @@ import (
 	#StadiaPro
 	languages: [...]
 	countries: #Country
-	gameMode: [...]
+	gameModes: [...]
 	supportedInputs: *#SupportedInput | [...]
 	accessibilityFeatures: [...]
 	#Resolution

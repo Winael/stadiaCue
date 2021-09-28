@@ -34,7 +34,7 @@ game: gods_will_fall: #Game & {
         "Chinese (China)", 
         "Chinese (Taiwan)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

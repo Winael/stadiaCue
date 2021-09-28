@@ -26,7 +26,7 @@ game: life_is_strange_before_the_storm_remastered: #Game & {
     languages: [
         ""
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

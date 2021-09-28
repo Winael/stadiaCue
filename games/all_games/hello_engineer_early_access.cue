@@ -47,7 +47,7 @@ game: hello_engineer_early_access: #Game & {
         "Portuguese (Portugal)", 
         "Polish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2-4 players Online Multiplayer"
     ]

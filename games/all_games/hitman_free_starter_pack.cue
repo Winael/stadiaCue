@@ -27,7 +27,7 @@ game: hitman_free_starter_pack: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

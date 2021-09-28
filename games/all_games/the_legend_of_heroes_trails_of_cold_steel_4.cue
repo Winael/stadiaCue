@@ -24,7 +24,7 @@ game: the_legend_of_heroes_trails_of_cold_steel_4: #Game & {
     languages: [
         "English"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

@@ -39,7 +39,7 @@ game: street_power_football: #Game & {
         "Swedish",
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "2 players Local Multiplayer",
         "2 players Online Multiplayer",

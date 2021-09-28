@@ -33,7 +33,7 @@ game: assassins_creed_black_flag: #Game & {
         "German",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

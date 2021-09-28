@@ -26,7 +26,7 @@ game: the_darkside_detective_a_fumble_in_the_dark: #Game & {
         "German",
         "Spanish"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

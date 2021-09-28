@@ -31,7 +31,7 @@ game: paw_patrol_mighty_pups_save_adventure_bay: #Game & {
         "French",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "1-2 players Local Multiplayer",
         "1-2 players Local Co-op"

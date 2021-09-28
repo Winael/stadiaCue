@@ -52,7 +52,7 @@ game: el_hijo_a_wild_west_tale: #Game & {
         "Thai", 
         "Vietnamese"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player"
     ]
 	accessibilityFeatures: [

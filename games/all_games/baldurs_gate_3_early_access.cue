@@ -48,7 +48,7 @@ game: baldurs_gate_3_early_access: #Game & {
 		"Russian (Russia)",
 		"Chinese (China)",
 	]
-	gameMode: [
+	gameModes: [
 		"Single Player",
 		"2-4 players Online Multiplayer",
 	]

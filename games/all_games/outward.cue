@@ -29,7 +29,7 @@ game: outward: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-2 players Local Multiplayer", 
         "1-2 players Online Multiplayer", 

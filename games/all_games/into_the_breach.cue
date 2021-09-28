@@ -33,7 +33,7 @@ game: into_the_breach: #Game & {
         "Spanish", 
         "Japanese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

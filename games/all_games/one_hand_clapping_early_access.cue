@@ -52,7 +52,7 @@ game: one_hand_clapping_early_access: #Game & {
         "Greek", 
         "Thai"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

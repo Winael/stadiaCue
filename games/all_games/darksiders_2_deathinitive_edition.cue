@@ -36,7 +36,7 @@ game: darksiders_2_deathinitive_edition: #Game & {
         "Dutch",
         "Portuguese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

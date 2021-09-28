@@ -30,7 +30,7 @@ game: gigantosaurus_the_game: #Game & {
         "French",
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player",
         "> 1 player Local Multiplayer",
         "> 1 player Local Co-op",

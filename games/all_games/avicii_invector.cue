@@ -37,7 +37,7 @@ game: avicii_invector: #Game & {
         "Polish (Poland)", 
         "Chinese (Traditional)"
     ]
-	gameMode: [
+	gameModes: [
         "Single Player", 
         "2-4 players Local Multiplayer", 
         "2-4 players Competitive", 

@@ -29,7 +29,7 @@ game: hitman_the_complete_first_season: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

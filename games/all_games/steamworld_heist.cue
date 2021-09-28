@@ -30,7 +30,7 @@ game: steamworld_heist: #Game & {
         "Spanish",
         "Russian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

@@ -32,7 +32,7 @@ game: little_nightmares: #Game & {
         "Russian", 
         "Chinese (Traditional)"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [

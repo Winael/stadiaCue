@@ -36,7 +36,7 @@ game: orcs_must_die_3: #Game & {
         "Russian", 
         "Portuguese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "2 players Online Co-op"
     ]

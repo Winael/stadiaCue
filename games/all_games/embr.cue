@@ -34,7 +34,7 @@ game: embr: #Game & {
         "French", 
         "Italian"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player", 
         "1-4 players Online Multiplayer", 
         "1-4 players Online Co-op", 

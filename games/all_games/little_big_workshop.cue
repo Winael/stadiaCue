@@ -33,7 +33,7 @@ game: little_big_workshop: #Game & {
         "Russian", 
         "Chinese"
     ]
-    gameMode: [
+    gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [
