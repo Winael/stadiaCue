@@ -22,36 +22,44 @@ game: control_ultimate_edition: #Game & {
     publisher:			"505 Games"
     stadiaReleaseDate:	"2021-07-27"
     genre: [
-        "Action", 
-        "Adventure", 
+        "Action",
+        "Adventure",
         "Shooter"
     ]
     languages: [
-        "English", 
-        "German", 
-        "Spanish", 
-        "French", 
-        "Italian", 
-        "Polish", 
-        "Portuguese (Brazil)", 
-        "Russian", 
-        "Arabic", 
-        "Japanese", 
-        "Korean", 
-        "Chinese (China)", 
+        "English",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Polish",
+        "Portuguese (Brazil)",
+        "Russian",
+        "Arabic",
+        "Japanese",
+        "Korean",
+        "Chinese (China)",
         "Chinese (Taiwan)"
     ]
     gameModes: [
         "Single Player"
     ]
     accessibilityFeatures: [
-        "Button remapping", 
-        "separate volume controls", 
-        "adjustable dialogue text size", 
-        "difficulty levels", 
-        "brightness contrast gamma adjustment", 
+        "Button remapping",
+        "separate volume controls",
+        "adjustable dialogue text size",
+        "difficulty levels",
+        "brightness contrast gamma adjustment",
         "dialogue subtitles"
     ]
+    resolution_info: {
+    	resolution: 	"2560x1440"
+    	framerates: 	60
+    	dynamic_range: "SDR"
+    }
+    achievements_info: {
+    	achievements: 		    67  
+    }
     medias: {
         storeCover:			"https://lh3.googleusercontent.com/0NR9FTgakc3hxa7EOBOBnn_NQh1HvSoOcwbWr27-g4KpNGg-0hud9uoS2gCLMEVtVcbOlI3BagqQ7e9YUVN_esa-e6n04ZMY3U59NPQkr5jvMabJ0k8ssAay_bw=e14-rw-no-v1-s0-d"
         storeCoverSquare:	"https://lh3.googleusercontent.com/7lN3zLl5uzXykdZY8WkWmu0pu4hQ7a-7ET255WIiMbCE47KdjfAkKf66Nj611oQCsngapcUYvMKYehKwwDKnC86GVT0naQGOCYUu4fC2W356puVsz1EL7ITb6w=e14-rw-no-v1-s0-d"

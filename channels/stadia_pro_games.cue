@@ -18,6 +18,10 @@ stadiaProGames: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-06-01"
 	}
+	cake_bash: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-10-01"
+	}
 	celeste: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2020-10-01"
@@ -27,6 +31,10 @@ stadiaProGames: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2021-06-01"
 		stadiaProEndDate: "2021-08-31"
+	}
+	control_ultimate_edition: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-10-01"
 	}
 	crayta: {
 		stadiaProActive: true
@@ -50,6 +58,10 @@ stadiaProGames: {
 		stadiaProBeginDate: "2019-11-19"
 		stadiaProEndDate:   "2020-11-30"
 	}
+	dreamworks_spirit_luckys_big_adventure:{
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-10-01"		
+	}
 	el_hijo_a_wild_west_tale: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2021-01-01"
@@ -59,6 +71,11 @@ stadiaProGames: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2020-09-01"
 		stadiaProEndDate: "2020-12-31"
+	}
+	enter_the_gungeon: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2021-02-01"	
+		stadiaProEndDate: "2021-04-30"	
 	}
 	epistory_typing_chronicles: {
 		stadiaProActive: true
@@ -110,6 +127,10 @@ stadiaProGames: {
 		stadiaProBeginDate: "2020-02-01"
 		stadiaProEndDate: "2020-12-31"
 	}
+	hello_engineer_early_access: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-10-01"
+	}
 	hello_neighbor: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2020-09-01"
@@ -139,8 +160,9 @@ stadiaProGames: {
 		stadiaProBeginDate: "2021-05-01"
 	}
 	human_fall_flat_stadia_edition: {
-		stadiaProActive: true
+		stadiaProActive: false
 		stadiaProBeginDate: "2020-10-01"
+		stadiaProEndDate: "2021-09-30"
 	}	
 	into_the_breach: {
 		stadiaProActive: false
@@ -206,6 +228,10 @@ stadiaProGames: {
 		stadiaProActive: false
 		stadiaProBeginDate: "2021-02-11"
 		stadiaProEndDate: "2021-08-12"
+	}	
+	mafia_3_definitive_edition: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-10-01"
 	}	
 	metro_2033_redux: {
 		stadiaProActive: false

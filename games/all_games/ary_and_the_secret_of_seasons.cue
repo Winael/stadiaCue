@@ -52,7 +52,7 @@ game: ary_and_the_secret_of_seasons: #Game & {
 	}
 	medias: {
 		storeCover: 			"https://lh3.googleusercontent.com/RYwhrYX-nO_4zORHP9Eo50Qn-hifLLQ7Lo29Nw1iorrb6nnoZNsvHx82yVuf5hw13Kody0glziRMBeu9_xLkHIdjZQtlACDxbVHm5L7CZJlmnrO66GtvxWRVyRSB=s1920-rw"
-		storeCoverSquare: 		"https://lh3.googleusercontent.com/pXphXJ3_MF9t5Oaqf9zX9jt8kB_A-UpqtjPRdjioPWPuTiKr6o0gwAJ30cp_LsHqsV8IonZJmt7l5dhts2PQrl5UCjYH8WSNyOdp6jjLya_pOLQ00zvxd5-qZRQ0=s1920-rw"
+		storeCoverSquare: 		"https://lh3.googleusercontent.com/4s3T8j5z8n2FIfaeUW1zZuyFn9f0cUD-NPDsQyxvLB24Y9TOKq1HE0Trge2XNWewENloxzncknN1tbhZ2By_bLppEB2jUBzVOWyEOMfOPlUrh3BF0Z4pDzO7H8SC=e14-rw-no-v1-s0-d"
 		ownerCover:				"https://lh3.googleusercontent.com/Y_OjbwCwrP423ZyoLugF6_vzN9tnFf-cjCAywCl0H1TnWjK6tzBcGHMCf3tBI4G6mrZgxhJE_tkrhRRKtnXoNnyiRwMMzyYhMg8a5eiiV4woDPBRyUqVOc74LQ=w535-h380-e14-rw-no"
 		mainLogoCover:			"https://lh3.googleusercontent.com/3euqttM03hJqN7KZUWizWx5H-R-ersx-dQjkGT12dcKHuJkggLlP6Jy4LQ46o0FlZC1uJmTWdYJu0nNJUomghRJ9jhPRQ9Uep4FSI-B0uyMz0VLapUnOLj-s6Gg=e14-rw-no"
 		mainForegroundCover: 	"https://lh3.googleusercontent.com/N44236YuB2g9rA0MRQrXLuHAja92ako8f1GZ-1qQ4YTTqYgRECCn0Zs-z52pfqhWvuypVMdF-3UelLx7_rGGpolGg0VmSfJV28LWkosmvgMcb6H5cQlzyPC6AA=e14-rw-no"	

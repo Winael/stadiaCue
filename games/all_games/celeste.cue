@@ -42,7 +42,7 @@ game: celeste: #Game & {
 	]
 	medias: {
 		storeCover:       		"https://lh3.googleusercontent.com/VU5wVh-V34x6ILjvDcyp-zWRh-bGBeuZi8wXGczTdsArwoquYhjeH4gbrxHJl7Y2M5doupHDELW5KaUoMr__TqR45C5Gn-kb3CV1GIRheDplYYf0zyfhugix0N0=s1920-rw"
-		storeCoverSquare: 		"https://lh3.googleusercontent.com/Q0olrlJiXwsYDI41pXq_0yZK7oaVYQj5fQQXKa8Go3siLTyMeNXxx4rf1z2rB8qmz9WVPYKJ0LXBoTTO4P5odHoOAXGlTfdwqCj7cHmIceC7tCaTUKBZ87BIjYGW=s1920-rw"
+		storeCoverSquare: 		"https://lh3.googleusercontent.com/X8enkAwdBLbf1e0M6AJbzL2pCdpAECMDhDc6ulHPEHH7H8X6eO-MbAfVdj3fphH_nY9bjuQZEiK0ROu-IWUWIjtaBr_FuKYGzVFgk6T0vuoWbYyjbhr33tpSyCjM=e14-rw-no-v1-s0-d"
 		mainLogoCover:			"https://lh3.googleusercontent.com/_WWD-HFf78_Ey_cJPR_ykDt7ZoKBK06C8mYBh9wE83rUzg-GTQIwBKz7IHsa7CdtASnLBwaOZJdBSlV5yPhQftuWx2hqCgvrqbkAmx1jdOINxbyiolTZMJwAdbI=e14-rw-no"
 		mainForegroundCover:	"https://lh3.googleusercontent.com/H8RYLOda6bbNx5EQ605W6X4iNyeqzR61ZUW8Nv4dzIsxvcDGm9sQjmuaYHVsLrRIlOB2bbs0gmxzGr7Qe853bYVkKSJbfJ3GvUP5ahP_VhWcrDy8w0r8NNwkU_o=e14-rw-no"
 		mainBackgroundCover:	"https://lh3.googleusercontent.com/zVtzlXfr2T_BwVMf8u6iqu3BrqK74ApdIt28zhWnSZzcqeOQ_--7VUiJp0LykaZzN89GWXGH2AR89IH-Okp9mvB3wDtLGsunGlaku0rLimO-_aJyfawa7fA1Jjn5=e14-rw-no"

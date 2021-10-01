@@ -44,9 +44,5 @@ game: dragon_quest_xi_echoes_of_an_elusive_age: #Game & {
 	medias: {
 		storeCover:           "https://lh3.googleusercontent.com/r0Ip4y4KUa8fbhQvx7z82qv1uAh4wLYQ-UiJCIOYjRgOZnwnj44-FZT9DibVs30MtCjMV8YStZ-qAT5D8-xWNYmVpIFowG--yxRMLQK3pWW65eA0o02tGODaLg=e14-rw-no"
 		storeCoverSquare:     "https://lh3.googleusercontent.com/83ccY2wPJ0e2PNAemyWk8-2wIoYFRwLres0B1eT_lRsDsRtKp04nZhBaK15TThU6X-VSM-62Ur3qzLJIJsBox7FnLzwTxLO9hoUTO8W9WGFGYX1b8mD3YFn7Tlc=e14-rw-no"
-		ownerCover?:          string
-		mainForegroundCover?: string
-		mainLogoCover?:       string
-		mainBackgroundCover?: string
 	}
 }
