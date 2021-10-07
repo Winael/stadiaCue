@@ -41,7 +41,7 @@ game: jotun_valhalla_edition: #Game & {
         "separate volume controls"
     ]
     medias: {
-        storeCover:			"https://lh3.googleusercontent.com/yzzpMvpL-pCuDsGaaqOFqIZCV5M-Kzb2YjoE7Xyrz302Ctkn1EKYVNwYpx8jO8aJtnkc-S0k429v0-bbkNg3pq4dxjNlLbuqg6b6tZbCLbIYJURXA_5fTbROEQ=e14-rw-no-s0-d"
-        storeCoverSquare:	"https://lh3.googleusercontent.com/mO50nKXw4E2A4RcpRTnd26itz5gEbgnLUHwDiz0XXT-hA1f_ci9v1LfB7UQcIoQIkNjScG8UhZ8kUi7F3r9OOPGpUUdEcwpFWbkzcPFE6c4hE9QrratczKW3vfU=e14-rw-no-s0-d"
+        storeCover:			"https://lh3.googleusercontent.com/blHdzhAAsMlyvJy5gjL8kWNECEndVQNzbpMvE96Z9ePJy7K1xqT7iBpLfn5F0_T9M2gZPvPhw-ghoaPRjMXc5tSjkTdyRUcAA9l12t3O6pN6PW4o1AbjYuAKwA=e14-rw-no-v1-s0-d"
+        storeCoverSquare:	"https://lh3.googleusercontent.com/9iK-hhxEpUA65C0cIgi3Tk9khCv-2ungtu3CnLUI5yLow1OQRibd4ytYwj5IVkgu_Rz4Y0Uvsmafm-vI-hpsuGXGWTGWfu_-coDOhju9-XlqT_6vBAkMpBpgjMs=e14-rw-no-v1-s0-d"
     }
 }

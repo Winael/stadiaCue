@@ -34,7 +34,7 @@ game: hotline_miami: #Game & {
         "Button remapping"
     ]
     medias: {
-        storeCover:			"https://lh3.googleusercontent.com/RdIBMpiwoD7mPciZnbt8MW_5nmb2Xu_iaF-iX32OGvgYSQaOPS79WgsOmGwoOH9kUT2iA2khDKJNuPsr2ZBgjtqZ6fKi7DDBzghluno_cmVb9SArsHsaPPxTl0U=e14-rw-no-s0-d"
-        storeCoverSquare:	"https://lh3.googleusercontent.com/jdnNhy7X44Gok9_RP5_HGNc7t1_YoCjYiCze8a2jR_utj02LITjCsqmVtrVBB_agQvTnwI-nZrVW-oqLmTCPg2nlx516FGUA7JL2D-86WFYd0hTNO9yTgtJsmFI=e14-rw-no-s0-d"
+        storeCover:			"https://lh3.googleusercontent.com/AbZHIl_GxSzZtl3-gKRrIuHF2XixEDoVMbEdp0D9fpzBbqAH6vDuEnMS3MQLSCGssz8DdWOUoyYKeeyky2InHHpfb3TVpLr_q63s0K0c9ewauuP086sK5cZfNZk=e14-rw-no-v1-s0-d"
+        storeCoverSquare:	"https://lh3.googleusercontent.com/9KoCn37XE6lHM5r8H5MsmfdRVU95RMD58FI2emYYlzc2BHK10hYEb6bCY59TQQ_2MbnMfuuleGfiDgOSkRwHCIud2gGIksNxTLXZ2cZNURwPjsyX6p1AyCbfCwg=e14-rw-no-v1-s0-d"
     }
 }

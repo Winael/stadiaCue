@@ -34,7 +34,7 @@ game: metro_last_light_redux: #Game & {
     ]
     gameModes: [
         "Single Player"
-    ]
+    ]metro_last_light_redux
     accessibilityFeatures: [
         "Adjustable dialogue text size", 
         "brightness contrast gamma adjustment", 
@@ -43,7 +43,7 @@ game: metro_last_light_redux: #Game & {
         "sound captions"
     ]
     medias: {
-        storeCover:			"https://lh3.googleusercontent.com/_h19p7RBiJAlQAMKMPG8sjzii9seGto6uWEUfQrFlGSiie3SPldNaEtUwbmjPKK7eBozJpar4HWW9qFD0mrNbo7-AZ-BFI57riuVhxv2hw_I9eF5aWepxfcpIzE=e14-rw-no-s0-d"
-        storeCoverSquare:	"https://lh3.googleusercontent.com/q-_uHZkBnXqWGLECZukMUi4vXyY498qoi5sIZU662_W7G9YLbHXnBWWkYXD3rtDQwtho25SDGncImLGvvjHadyky11r1JNY8s1_UZkpoDzHLs9cGIVU61exoj0I=e14-rw-no-s0-d"
+        storeCover:			"https://lh3.googleusercontent.com/pC242gqP9NhTypXnC5FWIVrovbL2am-nu5aGDRUgCfQ-zdDK8YFrUqh5H-4sX2w3xWQHtdH9R0Ll-ncvJiMVUFQjjSBWRzst2gBgK7wM7V2hNEOmd3Gd_VV2wB0=e14-rw-no-v1-s0-d"
+        storeCoverSquare:	"https://lh3.googleusercontent.com/JmRF7TpdwOYqsIhkiG_S54vvbEo1APtrf0G06e3I2ricisXy-denJBwEXB5yvcgz9yeh64fqJN6RTChKWdIdrmI-sUHjaL9FKYrnn4Br--bDUqPcPfvt5hA28FA=e14-rw-no-v1-s0-d"
     }
 }

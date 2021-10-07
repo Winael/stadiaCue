@@ -37,7 +37,7 @@ game: hotline_miami_2_wrong_number: #Game & {
         "subtitle speed controls"
     ]
     medias: {
-        storeCover:			"https://lh3.googleusercontent.com/_XI57obWff-Gp8WXILgvef5AFdlQzHrm0eb8XQR_ga-wkBzzpH8wzxm5hHul04sANWdoehXRfHdUz0I9nd2PjAXBLVF1ysHq1Eq-TvwNFgSRdQwSumXur4YZpKs=e14-rw-no-s0-d"
-        storeCoverSquare:	"https://lh3.googleusercontent.com/lMYxHVpSrMCzgTPysCrJa1DMqGc_oronRomSIBQuk_hZ4gCo58_VQGv2jecEXCLjK-I3l68_2BmwWhua0da-rMvWvE0A0Vh8bqSlwPQ0gvqy6X3KflOmWDgEOrc=e14-rw-no-s0-d"
+        storeCover:			"https://lh3.googleusercontent.com/ZVMb8xDTRPquvwqqE4FSzPAWtAomuKz3XgJot8CJ_3Oy3PHMcsTYyWmLyicSUikkf71P4KnbetgC17Ak6eeY6qvXU0ZTcGC-vGrG4Y7QSdjcZeYuTFbWqih1YcM=e14-rw-no-v1-s0-d"
+        storeCoverSquare:	"https://lh3.googleusercontent.com/noNuLVhMeEA8Md7mYRmd9SVI3taigw9SHCOOMqGVsIRyL7ftWMS8vQMOn0rNYLLzRRfO1vExDu_b6DV569XEGJ8EWJ0_pxoCbgyOBi4_e6HepY1vz0PnZWuDTyI=e14-rw-no-v1-s0-d"
     }
 }
