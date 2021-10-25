@@ -2,7 +2,7 @@ package games
 
 import (
 	"list"
-	// "strings"
+	"strings"
 	channels "stadiacue.io/stadiaCue/channels"
 	ownerGames "stadiacue.io/stadiaCue/ownerGames"
 )
@@ -150,6 +150,15 @@ for gameName, gameInfo in channels.stadiaProGames {
 }
 
 gameList: [
+	for g in game {g.name}
+]
+
+sortedGameList: list.Sort(
+	gameList,
+	list.Ascending
+)
+
+gameListByTitle: [
 	for Game in game {
 		"\(Game.title)"
 	},
@@ -157,14 +166,15 @@ gameList: [
 
 nb_gameList: len(gameList)
 
-sortedGameList: list.Sort(
-	gameList,
+sortedGameListbyTitle: list.Sort(
+	gameListByTitle,
 	list.Ascending
 )
 
-gameInfos: [
-	for Game in sortedGameList {
-		"\(Game)"
-		// "\(Game.title)  \t\(strings.Join(Game.genre, ","))  \t\(Game.pegi)"
-	},
-]
+// gameInfos: [
+// 	for game in sortedGameList {[
+// 		game["\(game)"].title, 
+// 		strings.Join(game["\(game)"].genre, ","),
+// 		game["\(game)"].pegi
+// 	]},
+// ]

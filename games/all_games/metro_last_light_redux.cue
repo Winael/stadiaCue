@@ -34,7 +34,7 @@ game: metro_last_light_redux: #Game & {
     ]
     gameModes: [
         "Single Player"
-    ]metro_last_light_redux
+    ]
     accessibilityFeatures: [
         "Adjustable dialogue text size", 
         "brightness contrast gamma adjustment", 

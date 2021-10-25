@@ -1,7 +1,8 @@
 package ownerGames
 
 import (
-//	channels "stadiacue.io/stadiaCue/channels"
+	"list",
+    channels "stadiacue.io/stadiaCue/channels"
 )
 
 purchasedGames: [
@@ -37,7 +38,8 @@ purchasedGames: [
 	"terraria",
 	"the_crew_2",
 	"watch_dogs_legion",
-	...
+	"windbound",
+	"wwe_2k_battlegrounds"
 ]
 
 claimedGames: [
@@ -141,7 +143,10 @@ claimedGames: [
 	"tomb_raider_definitive_edition",
 	"trine_4_the_nightmare_prince",
 	"valkyria_chronicles_4",
-	...
+	"wave_break",
+	"west_of_loathing",
+	"ys_8_lacrimosa_of_dana",
+	"zombie_army_4_dead_war"
 ]
 
 preOrderedGames: []
@@ -153,8 +158,17 @@ nb_purchasedGames: len(purchasedGames)
 nb_claimedGames: len(claimedGames)
 nb_preOrderedGames: len(preOrderedGames)
 
-// ownLibrary: [
-// 	for game in purchasedGames {game},
-// 	if stadiaProEnabled {for game in claimedGames {game}},
-// 	if ubisoftplusEnabled {for game in channels.ubisoftplus {game}},
-// ]
+_ownLibrary: [
+  for g in purchasedGames {g},
+  for g in claimedGames if stadiaProEnabled {g},
+  for g in channels.ubisoftplus if ubisoftplusEnabled {g},
+]
+
+_ownLibrarySorted: list.Sort(
+	_ownLibrary,
+	list.Ascending
+)
+
+ownLibrary: [ for i, x in _ownLibrarySorted if !list.Contains(list.Drop(_ownLibrarySorted, i+1), x) {x}]
+
+nb_ownLibrary: len(ownLibrary)

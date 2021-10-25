@@ -47,5 +47,8 @@ game: riders_republic: #Game & {
     medias: {
         storeCover:			"https://lh3.googleusercontent.com/MovPR7JiKo_EHSoIeJoHhdm3iQzm3K-YhP2_CunyZR7AZA324-31uO9-D2vvV9l7lmT7Tio6WF97tX_HI0m2K-gTpEljpXkGs8flnr2Hq4U1DuVNo2rsjZzH2bc=e14-rw-no-v1-s0-d"
         storeCoverSquare:	"https://lh3.googleusercontent.com/O6U7l_YySrPXJzYIzGiqgr72wMfB-ZTJLmU9PPCrqeWO9EB2nqie8tqkylO8Rt9gRZbQKLqMPE6qm4fxPSYlfB8Ja3QPj3B_62ql6yIGhiRnj8j7gnQi7Rami_w=e14-rw-no-v1-s0-d"
+        mainForegroundCover: "https://lh3.googleusercontent.com/rSs1IvtVforPH6xrEy6Ieel2VTRbsuRUVpxJ50rB9EKvjLGeQ1t9srLnF8lLtTsJXKPy2KNiDHBJM6tMIc7MinW9VC8cjcaZ9CT1PxWIIypBYEH664DynFREkw=e14-rw-no-v1-s0-d"
+	    mainLogoCover:       "https://lh3.googleusercontent.com/c5t561qJCsVe4__UcDyF8lAfFI28Rtvt6YlLa_H3YTDQncYRN13NguwIY8qZPsXD1v1bh2FyU6npUrhdQWnHdobVhVSLbz3EfyQXvSsXnW0C9471lNPUzcnMdTNm=e14-rw-no-v1-s0-d"
+	    mainBackgroundCover: "https://lh3.googleusercontent.com/L7FueC7S6E3MYeCvaDJJkFAnmzdqMXtiZf9p5N9DF0Z9M7dFc-5PT47yGkxgL-lji3_HFROE-1IZ0q5G53__H6duQeEK8ZIF1ls4ycihJoMxpt0HA8C2MJjPziQ=e14-rw-no-v1-s0-d"
     }
 }

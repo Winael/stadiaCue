@@ -476,6 +476,24 @@ stadiaProGames: {
 		stadiaProActive: true
 		stadiaProBeginDate: "2021-08-01"		
 	}
+	wave_break: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-09-01"		
+	}
+	west_of_loathing: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-07-01"	
+		stadiaProEndDate: "2020-10-31"			
+	}
+	ys_8_lacrimosa_of_dana: {
+		stadiaProActive: true
+		stadiaProBeginDate: "2021-04-01"	
+	}
+	zombie_army_4_dead_war: {
+		stadiaProActive: false
+		stadiaProBeginDate: "2020-05-01"
+		stadiaProEndDate: "2020-07-31"			
+	}
 }
 
 

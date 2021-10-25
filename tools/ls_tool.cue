@@ -2,16 +2,12 @@ package tools
 
 import (
 	//  "strings"
-	//"stadiacue.io/stadiaCue/games"
+	"stadiacue.io/stadiaCue/games"
+	"stadiacue.io/stadiaCue/ownerGames"
 	"tool/cli"
 	"text/tabwriter"
 	//"list"
 )
-
-//sortedGameInfos: list.Sort(
-//  #GameInfos,
-//  {x: #GameInfo, y: #GameInfo, less: x.line<y.line}
-//)
 
 command: ls: {
 	task: printHeaders: cli.Print & {
